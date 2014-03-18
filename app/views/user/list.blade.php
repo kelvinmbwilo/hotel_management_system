@@ -1,14 +1,15 @@
 @extends('layout.master')
 
 @section('breadcumbs')
-    <li><a href="#">Home</a></li>
-    <li class="active">users</li>
+<li><a href="{{ url("home")}}">Home</a></li>
+<li><a href="{{ url("user/list") }}">users</a></li>
+<li class="active">list</li>
 @stop
 
 @section('content')
     <div class="panel panel-default">
       <div class="panel-body">
-          <table class='table table-striped table-responsive' id='stafftale' >
+          <table class='table table-striped table-responsive' id='stafftable' >
               <thead>
                   <tr>
                       <th> # </th>
@@ -26,15 +27,15 @@
                   @if($us->status == "active")
                   <tr>
                       <td>{{ $i++ }}</td>
-                       <td style="text-transform: capitalize">{{ $us->firstname }} {{ $us->middlename }} {{ $us->lastname }}</td>
+                       <td style="text-transform: capitalize">{{ $us->first_name }} {{ $us->middle_name }} {{ $us->last_name }}</td>
                        <td>{{ $us->email }}</td>
                        <td>{{ $us->phone }}</td>
-                       <td>{{ $us->role }}</td>
+                       <td>{{ $us->access }}</td>
                        <td>{{ $us->gender }}</td>
-                       <td id="{{ $us->id }}}">
-                           <a href="{{ url("user/log/{$us->id}")}}" title="View Staff log" class="edituser"><i class="fa fa-list text-success"></i> log</a>&nbsp;&nbsp;&nbsp;
-                            <a href="{{ url("user/edit/{$us->id}")}}" title="edit Staff" class="edituser"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
-                            <a href="#b" title="delete Staff" class="deleteuser"><i class="fa fa-trash-o text-danger"></i> delete</a>
+                       <td id="{{ $us->id }}" class="links">
+                           <a href="{{ url("user/log/{$us->id}")}}" title="View Staff log" class="userlog btn btn-xs btn-success"><i class="fa fa-list text-success"></i> log</a>&nbsp;&nbsp;&nbsp;
+                            <a href="{{ url("user/edit/{$us->id}")}}" title="edit Staff" class="edituser btn btn-xs btn-info" ><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
+                           <a href="#s" title="delete Staff" class="deleteuser btn btn-xs btn-danger"><i class="fa fa-trash-o text-info"></i> delete</a>
                        </td>
                   </tr>
                   @endif
@@ -47,10 +48,17 @@
 <!--script to process the list of users-->
 <script>
 $(document).ready(function (){
-    $("#stafftale").dataTable({
+
+    $("#stafftable").dataTable({
 //            "bJQueryUI": true,
             "sPaginationType": "full_numbers",
            "fnDrawCallback": function( oSettings ) {
+//               $("#stafftable").find("td.links a").hide();
+//               $("#stafftable").find("tr").hover(function(){
+//                   $(this).find("td.links a").show()
+//               },function(){
+//                   $(this).find("td.links a").hide();
+//               })
                $(".deleteuser").click(function(){
                 var id1 = $(this).parent().attr('id');
                 $(".deleteuser").show("slow").parent().parent().find("span").remove();
@@ -62,7 +70,7 @@ $(document).ready(function (){
                 });
                 $("#yes").click(function(){
                     $(this).parent().html("<br><i class='fa fa-spinner fa-spin'></i>deleting...");
-                    $.post("user/delete/"+id1,function(data){
+                    $.post("<?php echo url("user/delete")?>/"+id1,function(data){
                       btn.hide("slow").next("hr").hide("slow");
                    });
                 });

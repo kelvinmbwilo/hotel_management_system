@@ -1,8 +1,8 @@
 @extends('layout.master')
 
 @section('breadcumbs')
-    <li><a href="#">Home</a></li>
-    <li><a href="{{ url("user") }}">users</a></li>
+    <li><a href="{{ url("home")}}">Home</a></li>
+    <li><a href="{{ url("user/list") }}">users</a></li>
     <li class="active">add</li>
 @stop
 
@@ -30,19 +30,23 @@
          <div class='col-sm-6'>
              
              <div class='form-group'>
-            {{ Form::label('firstname', 'First Name',array('class'=>'control-label col-sm-4')) }}
-            <div class='col-sm-8'>{{ Form::text('firstname','',array('class'=>'form-control','placeholder'=>'First Name','required'=>'required')) }} </div>
+            {{ Form::label('first_name', 'First Name',array('class'=>'control-label col-sm-4')) }}
+            <div class='col-sm-8'>{{ Form::text('first_name','',array('class'=>'form-control','placeholder'=>'First Name','required'=>'required')) }} </div>
             </div>
              
               <div class='form-group'>
-            {{ Form::label('lastname', 'Last Name',array('class'=>'control-label col-sm-4')) }}
-            <div class='col-sm-8'>{{ Form::text('lastname','',array('class'=>'form-control','placeholder'=>'Last Name','required'=>'required')) }} </div>
+            {{ Form::label('last_name', 'Last Name',array('class'=>'control-label col-sm-4')) }}
+            <div class='col-sm-8'>{{ Form::text('last_name','',array('class'=>'form-control','placeholder'=>'Last Name','required'=>'required')) }} </div>
             </div>
-             
-            <div class='form-group'>
-                    {{ Form::label('gender', 'Gender',array('class'=>'control-label col-sm-4')) }}
-                    <div class='col-sm-8'>{{ Form::select('gender',array("Male"=>"Male","Female"=>"Female"),'',array('class'=>'form-control','required'=>'requiered')) }}  </div>
-                </div>
+
+             <div class='form-group'>
+                 {{ Form::label('middle_name', 'Middle Name',array('class'=>'control-label col-sm-4')) }}
+                 <div class='col-sm-8'>{{ Form::text('middle_name','',array('class'=>'form-control','placeholder'=>'Middle Name')) }} </div>
+             </div>
+<!--            <div class='form-group'>-->
+<!--                    {{ Form::label('gender', 'Gender',array('class'=>'control-label col-sm-4')) }}-->
+<!--                    <div class='col-sm-8'>{{ Form::select('gender',array("Male"=>"Male","Female"=>"Female"),'',array('class'=>'form-control','required'=>'requiered')) }}  </div>-->
+<!--                </div>-->
             <div class='form-group'>
                     {{ Form::label('role', 'Role',array('class'=>'control-label col-sm-4')) }}
                     <div class='col-sm-8'>{{ Form::select('role',array("admin"=>"Administrator","officer"=>"Loan Officer"),'',array('class'=>'form-control','required'=>'requiered')) }}  </div>
@@ -52,10 +56,7 @@
          
          <div class='col-sm-6'>
              
-             <div class='form-group'>
-            {{ Form::label('middlename', 'Middle Name',array('class'=>'control-label col-sm-4')) }}
-            <div class='col-sm-8'>{{ Form::text('middlename','',array('class'=>'form-control','placeholder'=>'Middle Name')) }} </div>
-            </div>
+
              
               <div class='form-group'>
             {{ Form::label('email', 'Email',array('class'=>'control-label col-sm-4')) }}

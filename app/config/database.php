@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'butman',
+			'database'  => 'hotel_management_system',
 			'username'  => 'root',
-			'password'  => 'kevdom',
+			'password'  => 'toor',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

@@ -36,20 +36,23 @@ class UserController extends \BaseController {
                 Return View::make("user.add")->with("emsg","User with ".Input::get("email")." already existed ");
             }else{
                 $user = User::create(array(
-                    "firstname"=>Input::get("firstname"),
-                    "middlename"=>Input::get("middlename"),
-                    "lastname"=>Input::get("lastname"),
+                    "first_name"=>Input::get("first_name"),
+                    "middle_name"=>Input::get("middle_name"),
+                    "last_name"=>Input::get("last_name"),
                     "phone"=>Input::get("phone"),
                     "email"=>Input::get("email"),
-                    "role"=>Input::get("role"),
+                    "access"=>Input::get("role"),
                     "password"=>Input::get("password"),
-                    "gender"=>Input::get("gender"),
+//                    "gender"=>Input::get("gender"),
                     "status"=>"active"
                 ));
-                $name = $user->firstname." ".$user->middlename." ".$user->lastname;
+                $name = $user->first_name." ".$user->middle_name." ".$user->last_name;
+
                 Logs::create(array(
                     "user_id"=>  Auth::user()->id,
+
                     "action"  =>"Add user named ".$name
+
                 ));
                 Return View::make("user.add")->with("msg",$name. " Added Successfull");
             }
@@ -90,21 +93,22 @@ class UserController extends \BaseController {
      */
     public function update($id)
     {
-        $user = User::find($id);
-        $user->firstname = Input::get("firstname");
-        $user->lastname = Input::get("lastname");
-        $user->middlename = Input::get("middlename");
-        $user->role = Input::get("role");
-        $user->email = Input::get("email");
-        $user->phone = Input::get("phone");
-        $user->gender = Input::get("gender");
-        $user->save();
-        $name = $user->firstname." ".$user->middlename." ".$user->lastname;
+        $users = User::find($id);
+        $users->first_name = Input::get("first_name");
+        $users->last_name = Input::get("last_name");
+        $users->middle_name = Input::get("middle_name");
+        $users->access = Input::get("role");
+        $users->email = Input::get("email");
+        $users->phone = Input::get("phone");
+//        $user->gender = Input::get("gender");
+        $users->save();
+        $name = $users->first_name." ".$users->middle_name." ".$users->last_name;
         Logs::create(array(
             "user_id"=>  Auth::user()->id,
             "action"  =>"Update user named ".$name
         ));
-        return View::make('user.edit',  compact("user"))->with("msg" , "User Updated Successfull");
+        $user = User::all();
+        return View::make('user.list',  compact("user"))->with("msg" , "User Updated Successfull");
     }
 
     /**
@@ -116,13 +120,11 @@ class UserController extends \BaseController {
     public function destroy($id)
     {
         $user = User::find($id);
-        $name = $user->firstname." ".$user->middlename." ".$user->lastname;
+        $name = $user->first_name." ".$user->middle_name." ".$user->last_name;
         $user->status="deleted";
-        $user->save();
-        Logs::create(array(
-            "user_id"=>  Auth::user()->id,
-            "action"  =>"Delete user named ".$name
-        ));
+        $user->delete();
+
+
     }
 
     /**

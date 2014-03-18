@@ -19,4 +19,8 @@ class Room extends Eloquent {
         return $this->hasMany('Booking', 'room_id', 'id');
     }
 
+    public function log(){
+        return $this->hasMany('Logs', 'room_id', 'id');
+    }
+
 }

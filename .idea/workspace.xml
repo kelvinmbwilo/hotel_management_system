@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="851ffa61-9f2d-481d-a712-aa01d1c53e76" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/Sorting icons.psd" afterPath="$PROJECT_DIR$/public/DataTables/media/images/Sorting icons.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/back.jpg" afterPath="$PROJECT_DIR$/public/img/back.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/back_disabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/back_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/back_enabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/back_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/back_enabled_hover.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/back_enabled_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/favicon.ico" afterPath="$PROJECT_DIR$/public/DataTables/media/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/forward_disabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/forward_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/forward_enabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/forward_enabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/forward_enabled_hover.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/forward_enabled_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/images.jpg" afterPath="$PROJECT_DIR$/public/img/images.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/logo.jpg" afterPath="$PROJECT_DIR$/public/img/logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/logo.png" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern100.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern101.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern101.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern102.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern102.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern103.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern103.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern104.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern104.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern105.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern105.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern106.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern106.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern107.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern107.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern108.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern108.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern109.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern109.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern110.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern110.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern111.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern111.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern112.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern112.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern113.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern113.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern114.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern114.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/pattern/pattern115.jpg" afterPath="$PROJECT_DIR$/public/pattern/pattern115.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/sort_asc.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/sort_asc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/sort_asc_disabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/sort_asc_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/sort_both.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/sort_both.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/sort_desc.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/sort_desc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/images/sort_desc_disabled.png" afterPath="$PROJECT_DIR$/public/DataTables/media/images/sort_desc_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/-complex_header.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/-complex_header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/-complex_header.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/-complex_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/-iDraw.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/-iDraw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/-iDraw.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/-iDraw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_160933_create_users_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_160933_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161219_create_room_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161219_create_room_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161529_create_guest_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161529_create_guest_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161802_create_booking_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_161802_create_booking_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162244_create_services_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162244_create_services_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162424_create_room_services_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162424_create_room_services_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162615_create_logs_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162615_create_logs_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162804_create_booking_services_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162804_create_booking_services_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162950_create_rules_table.php" afterPath="$PROJECT_DIR$/app/database/migrations/2014_02_10_162950_create_rules_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2440.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2440.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2512.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2512.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/2512.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/2512.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2530-2.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2530-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2530.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2530.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2569.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2569.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2569.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2569.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2600.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2600.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2600.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/2600.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2608.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2608.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2635.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2635.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2746-stable-sort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2746-stable-sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2799.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2799.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2840-restore-table-width.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2840-restore-table-width.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2914-state-save-sort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/2914-state-save-sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/39-nested-null.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/39-nested-null.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays-mData.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays-mData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5508-xscroll-zero-content.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/5508-xscroll-zero-content.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/6776-scrolling-table-grows.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/6776-scrolling-table-grows.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/6776.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/6776.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/6872-default-content-missing-props.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/6872-default-content-missing-props.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/8549--string-sorting-nonstrings.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/8549--string-sorting-nonstrings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Booking.php" afterPath="$PROJECT_DIR$/app/models/Booking.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/BookingServices.php" afterPath="$PROJECT_DIR$/app/models/BookingServices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/DataTables.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/DataTables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Guest.php" afterPath="$PROJECT_DIR$/app/models/Guest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Logs.php" afterPath="$PROJECT_DIR$/app/models/Logs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/Readme.txt" afterPath="$PROJECT_DIR$/public/DataTables/Readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Room.php" afterPath="$PROJECT_DIR$/app/models/Room.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/RoomServices.php" afterPath="$PROJECT_DIR$/app/models/RoomServices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Rules.php" afterPath="$PROJECT_DIR$/app/models/Rules.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Services.php" afterPath="$PROJECT_DIR$/app/models/Services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/User.php" afterPath="$PROJECT_DIR$/app/models/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/UserController.php" afterPath="$PROJECT_DIR$/app/controllers/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_getDataFunctions.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_getDataFunctions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_setDataFunctions.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_setDataFunctions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests/1_dom/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests/1_dom/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/_zero_config.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/_zero_config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_arrays_subobjects.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_arrays_subobjects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_deep.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_deep.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_mDataProp.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_mDataProp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_null_source.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_null_source.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects_subarrays.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects_subarrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aaSorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aaSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aaSortingFixed.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aaSortingFixed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/user/add.blade.php" afterPath="$PROJECT_DIR$/app/views/user/add.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSearchable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSearchable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSortable.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bUseRendered.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bUseRendered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bVisible.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bVisible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bVisible2.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.bVisible2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.fnRender.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.fnRender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.iDataSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.iDataSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.iDataSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.iDataSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.iDataSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.iDataSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.iDataSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.iDataSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.iDataSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.iDataSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sClass.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sName.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sName.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sTitle.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sTitle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoSearchCols.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/aoSearchCols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/api/api.internal.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/api/api.internal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/api/api.methods.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/api/api.methods.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/api/api.static.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/api/api.static.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/asStripClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/asStripClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bAutoWidth.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bAutoWidth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bInfiniteScroll.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bInfiniteScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bInfiniteScroll.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bInfiniteScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bJQueryUI.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bJQueryUI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bLengthChange.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bLengthChange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bServerSide.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bServerSide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bSort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bSort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSortCellsTop.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSortCellsTop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bSortClasses.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/bSortClasses.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/complex_header_2.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/complex_header_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/component.json" afterPath="$PROJECT_DIR$/public/DataTables/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/controller.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/controller.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.ajax.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.columns.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.columns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.constructor.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.constructor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.data.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.draw.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.draw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.filter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.info.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.info.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.init.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.length.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.length.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.page.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.processing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.processing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.scrolling.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.scrolling.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.sizing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.sizing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.sort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.state.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/core/core.support.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/core/core.support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/deferred_table.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/deferred_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/css/demo_page.css" afterPath="$PROJECT_DIR$/public/DataTables/media/css/demo_page.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/css/demo_table.css" afterPath="$PROJECT_DIR$/public/DataTables/media/css/demo_table.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/css/demo_table_jui.css" afterPath="$PROJECT_DIR$/public/DataTables/media/css/demo_table_jui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data_th.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data_th.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data_two_headers.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dom_data_two_headers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/draw.html" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/draw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dymanic_table.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/dymanic_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/user/edit.blade.php" afterPath="$PROJECT_DIR$/app/views/user/edit.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/empty_table.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/empty_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.classes.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.classes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.paging.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.paging.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.sorting.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.sorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.types.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/ext/ext.types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCookieCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCookieCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCreatedCell.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCreatedCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnCreatedCell.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnCreatedCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnCreatedCell.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnCreatedCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnCreatedCell.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnCreatedCell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCreatedRow.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnCreatedRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnCreatedRow.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnCreatedRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnCreatedRow.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnCreatedRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnCreatedRow.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnCreatedRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnDeleteRow.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnDeleteRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnDrawCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnDrawCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnFilter.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnFooterCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnFooterCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnFooterCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnFooterCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnHeaderCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnHeaderCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnInfoCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnInfoCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnInitComplete.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnInitComplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnRowCallback.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnRowCallback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnServerData.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/fnServerData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnServerData.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/fnServerData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnServerData.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/fnServerData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnSetColumnVis.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnSetColumnVis.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnSetColumnVis2.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/fnSetColumnVis2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/html-autodetect-sort.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/html-autodetect-sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/html_table.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/html_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/iDeferLoading.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/iDeferLoading.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/iDisplayLength.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/iDisplayLength.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/index.html" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/css/jquery.dataTables.css" afterPath="$PROJECT_DIR$/public/DataTables/media/css/jquery.dataTables.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/js/jquery.dataTables.js" afterPath="$PROJECT_DIR$/public/DataTables/media/js/jquery.dataTables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/js/jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/public/DataTables/media/js/jquery.dataTables.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/css/jquery.dataTables_themeroller.css" afterPath="$PROJECT_DIR$/public/DataTables/media/css/jquery.dataTables_themeroller.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/jquery.form.js" afterPath="$PROJECT_DIR$/public/js/jquery.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/js/jquery.js" afterPath="$PROJECT_DIR$/public/DataTables/media/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/js_data.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/js_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/js_data_mixed_types.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/js_data_mixed_types.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/js_data_mixed_types.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/js_data_mixed_types.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/scripts/jshint.config" afterPath="$PROJECT_DIR$/public/DataTables/scripts/jshint.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/large.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/large.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/license-bsd.txt" afterPath="$PROJECT_DIR$/public/DataTables/license-bsd.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/license-gpl2.txt" afterPath="$PROJECT_DIR$/public/DataTables/license-gpl2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/user/list.blade.php" afterPath="$PROJECT_DIR$/app/views/user/list.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/user/log.blade.php" afterPath="$PROJECT_DIR$/app/views/user/log.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/login.blade.php" afterPath="$PROJECT_DIR$/app/views/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/scripts/make.sh" afterPath="$PROJECT_DIR$/public/DataTables/scripts/make.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layout/master.blade.php" afterPath="$PROJECT_DIR$/app/views/layout/master.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.column.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.column.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.defaults.columns.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.defaults.columns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.defaults.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.defaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.ext.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.ext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.row.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.row.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.search.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/src/model/model.settings.js" afterPath="$PROJECT_DIR$/public/DataTables/media/src/model/model.settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.oPaginate.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.oPaginate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfo.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoEmpty.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoEmpty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoPostFix.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoPostFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sLengthMenu.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sLengthMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sLoadingRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sLoadingRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sProcessing.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sProcessing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sUrl.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sZeroRecords.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sZeroRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oSearch.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/oSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/package.json" afterPath="$PROJECT_DIR$/public/DataTables/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/page.html" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxDataProp.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxDataProp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sAjaxDataProp.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sAjaxDataProp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxDataProp2.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxDataProp2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp2.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxSource.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sAjaxSource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sDom.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sDom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/2_js/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/3_ajax/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/4_server-side/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/5_ajax_objects/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sPaginationType.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/6_delayed_rendering/sPaginationType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sScrollXY.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/sScrollXY.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/sort.html" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/performance/sort.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/test.blade.php" afterPath="$PROJECT_DIR$/app/views/test.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/testmenu.blade.php" afterPath="$PROJECT_DIR$/app/views/testmenu.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/th_in_body.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/tests_onhold/1_dom/th_in_body.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/two_tables.php" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/templates/two_tables.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/media/unit_testing/unit_test.js" afterPath="$PROJECT_DIR$/public/DataTables/media/unit_testing/unit_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/DataTables/scripts/unit_tests.sh" afterPath="$PROJECT_DIR$/public/DataTables/scripts/unit_tests.sh" />
+    </list>
+    <ignored path="hotel_management_system.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hotel_management_system" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RoomController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/RoomController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="297" column="29" selection-start="13478" selection-end="13478" vertical-scroll-proportion="-22.916666" vertical-offset="3905" max-vertical-offset="5010">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="19" selection-start="1773" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/room/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="42" selection-start="236" selection-end="236" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="390">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/room/add.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="22" selection-start="2308" selection-end="2592" vertical-scroll-proportion="-7.5" vertical-offset="630" max-vertical-offset="1395">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="75" selection-start="2274" selection-end="2274" vertical-scroll-proportion="-4.1666665" vertical-offset="980" max-vertical-offset="2055">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="55" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="2580">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/room/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="112" selection-start="704" selection-end="713" vertical-scroll-proportion="-0.0" vertical-offset="315" max-vertical-offset="1635">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014_02_10_161219_create_room_table.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_161219_create_room_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="7" selection-start="841" selection-end="841" vertical-scroll-proportion="0.8150685" vertical-offset="168" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/room/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="10" selection-start="2771" selection-end="2771" vertical-scroll-proportion="-15.0" vertical-offset="630" max-vertical-offset="1650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/ServiceController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="26" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/room/list.blabe.php" />
+        <option value="$PROJECT_DIR$/app/models/User.php" />
+        <option value="$PROJECT_DIR$/app/views/user/log.blade.php" />
+        <option value="$PROJECT_DIR$/app/models/Room.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_02_10_162615_create_logs_table.php" />
+        <option value="$PROJECT_DIR$/app/models/roomLogs.php" />
+        <option value="$PROJECT_DIR$/app/views/room/log.blade.php" />
+        <option value="$PROJECT_DIR$/../dotphics/loungehotel/js/jquery.jqtransform.js" />
+        <option value="$PROJECT_DIR$/../dotphics/loungehotel/services.html" />
+        <option value="$PROJECT_DIR$/../dotphics/loungehotel/locations.html" />
+        <option value="$PROJECT_DIR$/../dotphics/loungehotel/index.html" />
+        <option value="$PROJECT_DIR$/app/views/website/home.blade.php" />
+        <option value="$PROJECT_DIR$/../dotphics/loungehotel/rooms.html" />
+        <option value="$PROJECT_DIR$/app/views/service/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/start/global.php" />
+        <option value="$PROJECT_DIR$/app/views/service/list.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ServiceController.php" />
+        <option value="$PROJECT_DIR$/app/views/guest/list.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/guest/add.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/user/add.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/user/list.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/user/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/service/add.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/guest/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/BookingController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/GuestController.php" />
+        <option value="$PROJECT_DIR$/app/views/booking/add.blade.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_02_10_161219_create_room_table.php" />
+        <option value="$PROJECT_DIR$/app/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/app/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/layout/master.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/room/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/testmenu.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/room/add.blade.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/room/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/RoomController.php" />
+        <option value="$PROJECT_DIR$/app/views/room/list.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tembo_tarangire" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/guest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$/app/views/guest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="851ffa61-9f2d-481d-a712-aa01d1c53e76" name="Default" comment="" />
+      <created>1393411201916</created>
+      <updated>1393411201916</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18376723" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2560423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58039814" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20392749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/Adamina_400.font.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="3" selection-start="780" selection-end="780" vertical-scroll-proportion="0.8629442" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/atooltip.jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="38" selection-start="3166" selection-end="3166" vertical-scroll-proportion="0.36378467" vertical-offset="1037" max-vertical-offset="1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/cufon-replace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/cufon-yui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4223" selection-start="4322" selection-end="4323" vertical-scroll-proportion="0.15358362" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/jquery.jqtransform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="40" selection-end="40" vertical-scroll-proportion="0.07679181" vertical-offset="0" max-vertical-offset="5265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.07188498" vertical-offset="0" max-vertical-offset="626" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/js/jquery-1.6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="269" selection-end="269" vertical-scroll-proportion="0.25597268" vertical-offset="0" max-vertical-offset="586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/locations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="24" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.6536503" vertical-offset="335" max-vertical-offset="3120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="34" selection-start="1726" selection-end="1730" vertical-scroll-proportion="0.5602716" vertical-offset="285" max-vertical-offset="2325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="45" selection-start="8428" selection-end="8428" vertical-scroll-proportion="1.8539898" vertical-offset="1248" max-vertical-offset="2625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dotphics/loungehotel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="41" selection-start="4432" selection-end="4432" vertical-scroll-proportion="0.12733446" vertical-offset="1440" max-vertical-offset="3315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_162244_create_services_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="562" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/start/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1551" selection-end="1551" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/booking/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/booking/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/service/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="55" selection-start="3055" selection-end="3055" vertical-scroll-proportion="-27.5" vertical-offset="360" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="54" selection-end="186" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="170" selection-end="170" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1365" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="170" selection-end="170" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BookingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="41" selection-start="282" selection-end="315" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/service/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="208" selection-end="2242" vertical-scroll-proportion="-21.75" vertical-offset="273" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/service/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="70" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/booking/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="36" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user/log.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="37" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="120" selection-start="1167" selection-end="1167" vertical-scroll-proportion="-2.375" vertical-offset="303" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="53" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Booking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_160933_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_161529_create_guest_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_162615_create_logs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/GuestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="49" selection-start="297" selection-end="297" vertical-scroll-proportion="-6.6666665" vertical-offset="80" max-vertical-offset="1605" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/guest/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2137" selection-end="2137" vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/guest/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="46" selection-start="313" selection-end="313" vertical-scroll-proportion="22.5" vertical-offset="720" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/guest/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="171" selection-start="1056" selection-end="1056" vertical-scroll-proportion="1.375" vertical-offset="513" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Room.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="604">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="55" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="2580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="1773" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ServiceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="26" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="75" selection-start="2274" selection-end="2274" vertical-scroll-proportion="-4.1666665" vertical-offset="980" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/room/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="22" selection-start="2308" selection-end="2592" vertical-scroll-proportion="-7.5" vertical-offset="630" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/room/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="10" selection-start="2771" selection-end="2771" vertical-scroll-proportion="-15.0" vertical-offset="630" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/RoomController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="29" selection-start="13478" selection-end="13478" vertical-scroll-proportion="-22.916666" vertical-offset="3905" max-vertical-offset="5010">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/room/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="42" selection-start="236" selection-end="236" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/room/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="112" selection-start="704" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_10_161219_create_room_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="7" selection-start="841" selection-end="841" vertical-scroll-proportion="0.8150685" vertical-offset="168" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
