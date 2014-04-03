@@ -9,18 +9,19 @@ class GuestController extends \BaseController {
 	 */
 	public function index()
 	{
-		$guest = Guest::all();
-        return View::make('guest.list', compact('guest'));
+
+        return View::make('guest.index');
 	}
 
 	/**
 	 * Show the form for creating a new resource.
-	 *
+	 * @param  int  $id
 	 * @return Response
 	 */
-	public function create()
+	public function create($id)
 	{
-	  Return View::make('guest.add');
+        $grooms = Room::find($id);
+	  Return View::make('guest.add',compact("grooms"));
 	}
 
 	/**
@@ -28,22 +29,56 @@ class GuestController extends \BaseController {
 	 *
 	 * @return Response
 	 */
-	public function store()
+	public function store($id)
 	{
-		$guest = Guest::create(Input::all());
-        $name = $guest->name;
-        return View::make('booking.add', compact('name'));
+		$guest = Guest::create(array(
+            "first_name" => Input::get("first_name"),
+            "middle_name" => Input::get("middle_name"),
+            "last_name" => Input::get("last_name"),
+            "email" => Input::get("email"),
+            "phone_number" => Input::get("phone_number"),
+            "country" => Input::get("country"),
+
+        ));
+          foreach(Input::get("service") as $huduma){
+        BookingServices::create(array(
+            "guest_id"=>$guest->id,
+            "service_id"=>$huduma
+        ));
+    }
+
+        $room = RoomGuest::create(array(
+            "room_id" => $id,
+            "guest_id" => $guest->id,
+            "check_in" => Input::get("from"),
+            "check_out"=> Input::get("to"),
+        ));
+
+        return "<h3 class='text-success'> Guest Registered Successful </h3>";
+
 	}
 
 	/**
 	 * Display the specified resource.
 	 *
-	 * @param  int  $id
+	 *
 	 * @return Response
 	 */
-	public function show($id)
+	public function show()
 	{
-		//
+
+		return View::make("guest.list");
+	}
+/**
+	 * Display the specified resource.
+	 *
+	 * @param int $id
+	 * @return Response
+	 */
+	public function showinfo($id)
+	{
+        $guest = Guest::find($id);
+		return View::make("guest.info",compact("guest"));
 	}
 
 	/**
@@ -82,6 +117,7 @@ class GuestController extends \BaseController {
         $guest->email = Input::get("email");
         $guest->phone_number = Input::get("phone_number");
         $guest->country = Input::get("country");
+        $guest->save();
 
 	}
 

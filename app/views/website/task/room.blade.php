@@ -1,83 +1,74 @@
-@extends('layout.master')
+@extends('website.layout.master')
 
 @section('contents')
-
-<article id="content">
-    <div class="box1">
-        <div class="wrapper">
-            <div class="col2 pad">
-                <h2><img src="images/title_marker1.jpg" alt="">Best Propositions of This Month</h2>
-                <div class="wrapper line1">
-                    <div class="col">
-                        <figure class="pad_bot3"><img src="images/page3_img1.jpg" alt=""></figure>
-                        <p class="pad_bot1"><strong class="color3">Girrafe Room</strong></p>
-                        <p>jhhgshsgkj;dkgjsdlghhhhdjijkdbfhjkbjhf</p>
-                        <ul class="list2">
-                            <li><span>2</span>Rooms</li>
-                            <li><span>4</span>Beds</li>
-                        </ul>
-                        <a href="#" class="button2">Book Room</a> </div>
-                    <div class="col3 pad_left2">
-                        <figure class="pad_bot3"><img src="images/page3_img4.jpg" alt=""></figure>
-                        <p class="pad_bot1"><strong class="color3">Lorem ipsum dolor amet consectetur</strong></p>
-                        <p>Ut enim ad minim veniam nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-                        <ul class="list2">
-                            <li><span>2</span>Rooms</li>
-                            <li><span>4</span>Beds</li>
-                        </ul>
-                        <a href="#" class="button2">Book Room</a> </div>
-                </div>
-                <div class="container">
-                    <div class="col2">
-                        <figure class="pad_bot3"><img src="images/page3_img1.jpg" alt=""></figure>
-                        <p class="pad_bot1"><strong class="color3">Girrafe Room</strong></p>
-                        <p>jhhgshsgkj;dkgjsdlghhhhdjijkdbfhjkbjhf</p>
-                        <ul class="list2">
-                            <li><span>2</span>Rooms</li>
-                            <li><span>4</span>Beds</li>
-                        </ul>
-                        <a href="#" class="button2">Book Room</a> </div>
-                </div>
-            </div>
-        </div>
+<div class="pageTitle">
+    <div class="container">
+        <h2>Rooms</h2>
     </div>
-    <div class="pad">
-        <div class="wrapper line3">
-            <div class="col2">
-                <h2>Quality Standards</h2>
-                <p class="pad_bot1"><strong class="color2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo</strong> </p>
-                <p class="pad_bot1"> Inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enigm ipsam voluptatem nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus quia voluptas sit aspernatur aut odit aut fugit.</p>
-                <div class="wrapper pad_bot2">
-                    <div class="col1">
-                        <ul class="list1">
-                            <li><a href="#">Inventore veritatis et quasi architecto</a></li>
-                            <li><a href="#">Nemo enim ipsam voluptatem quivolupta</a></li>
-                            <li><a href="#">Sit aspernatur aut odit aut fugit sed</a></li>
-                        </ul>
-                    </div>
-                    <div class="col1 pad_left1">
-                        <ul class="list1">
-                            <li><a href="#">Neque porro quisquam est, qui dolorem</a></li>
-                            <li><a href="#">Ipsum quia dolor amet consectetur</a></li>
-                            <li><a href="#">Adipisci velit, sed quia non numquam</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <p class="pad_bot1"><strong class="color2">Duis aute irure dolorin reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur</strong></p>
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </div>
-            <div class="col1 pad_left1">
-                <h2>The Rooms</h2>
-                <p class="pad_bot1"><strong class="color2">Nemo enim ipsam voluptatem</strong><br>
-                    Quia voluptas sit aspernatur aut odit autugit sed quia ne voluptatem nesciunt. </p>
-                <figure class="pad_bot3"><img src="images/page4_img1.jpg" alt=""></figure>
-                <ul class="list1 pad_bot3">
-                    <li><a href="#">Neque porro quisquam est qui</a></li>
-                    <li><a href="#">Dolorem ipsum quia dolor sit amet</a></li>
-                    <li><a href="#">Consectetur adipisci velit sed</a></li>
-                </ul>
-                <a href="#" class="button1">Read More</a> </div>
-        </div>
-    </div>
-</article>
+</div><br><br>
+<div class="container marketing">
+    <div id="myCarousel3" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <div class="carousel-inner">
 
+            <?php $rooms = Room::all(); $i=0; $j=0; $no = $rooms->count();?>
+            <div class="item active"><div class="row">
+            @foreach($rooms as $room)
+            <?php $i++; $j++;?>
+
+                    <div class="col-lg-4">
+                        <img style="height: 240px;width: 370px" class="img-thumbnail img-rounded img-responsive" src="{{asset("uploads/rooms/{$room->image}")}}" alt="Generic placeholder image">
+                        <h4 class="lead">{{ $room->name }}</h4>
+                        <p><a class="btn btn-default book" id='{{ $room->id }}' href="#" role="button" >Book Room  &raquo;</a></p>
+                    </div><!-- /.col-lg-4 -->
+            @if($i == 3 && $j<$no)
+                    </div></div><div class="item"><div class="row">
+                    <?php $i = 0; ?>
+            @endif
+            @endforeach
+            </div></div><!-- /.row -->
+
+        </div>
+        <a class="left carousel-control" href="#myCarousel3" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+        <a class="right carousel-control" href="#myCarousel3" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div><!-- /.carousel -->
+</div>
+
+
+
+<script>
+    $(document).ready(function(){
+        $('.carousel').carousel({
+            interval:100000000
+        });
+
+        $(".book").click(function(){
+            var id = $(this).attr("id");
+            var modal = '<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">';
+            modal+= '<div class="modal-dialog">';
+            modal+= '<div class="modal-content">';
+            modal+= '<div class="modal-header">';
+            modal+= '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
+            modal+= '<h4 class="modal-title" id="myModalLabel">Fill this form</h4>';
+            modal+= '</div>';
+            modal+= '<div class="modal-body">';
+
+            modal+= ' </div>';
+            modal+= '<div class="modal-footer">';
+            modal+= '   <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>';
+            modal+= '</div>';
+            modal+= '</div>';
+            modal+= '</div>';
+
+            $("body").append(modal);
+            $("#myModal").modal("show");
+            $(".modal-body").html("<h3><i class='fa fa-spin fa-spinner '></i><span>loading...</span><h3>");
+            $(".modal-body").load("<?php echo url("guest/add") ?>/"+id);
+            $("#myModal").on('hidden.bs.modal',function(){
+                $("#myModal").remove();
+            })
+
+        })
+    })
+</script>
 @stop

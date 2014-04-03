@@ -15,7 +15,7 @@ class CreateBookingServicesTable extends Migration {
 		Schema::create('booking_services', function(Blueprint $table)
 		{
 			$table->increments('id');
-            $table->integer("booking_id");
+            $table->integer("guest_id");
             $table->integer("service_id");
 			$table->timestamps();
 		});

@@ -1,5 +1,5 @@
 
-        {{ Form::open(array("url"=>route('addroom1'),"class"=>"form-horizontal",'id' => "FileUploader",'files' => true)) }}
+        {{ Form::open(array("url"=>url('room/add'),"class"=>"form-horizontal",'id' => "FileUploader",'files' => true)) }}
         <h2 class="text-center text-muted">Add new Room</h2>
 
             <div class='form-group'>

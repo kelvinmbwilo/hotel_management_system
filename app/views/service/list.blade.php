@@ -1,52 +1,46 @@
-@extends('layout.master')
-
-@section('menubar')
-<li><a href="#">Home</a> </li>
-<li class="active">Services</li>
-@stop
-
-@section('content')
-<div class="panel panel-default">
-    <div class="panel-body">
+<?php
+$service = Services::all();
+?>
         <table class='table table-striped table-responsive' id='servicetable'>
 
         <thead>
         <tr>
-            <th>Service #</th>
+            <th> No</th>
             <th> Name </th>
-            <th> description </th>
             <th> price </th>
+            <th> description </th>
+            @if(Session::get('role')!= 'receptionist')
             <th>Action</th>
+            @endif
         </tr>
         </thead>
         <tbody>
-        <tr>
+        <tr style="font-size: 11px">
             <?php $i = 1; ?>
             @foreach($service as $huduma)
             <td>{{ $i++ }}</td>
             <td>{{ $huduma->name }}</td>
             <td>{{ $huduma->price }}</td>
             <td>{{ $huduma->description }}</td>
+            @if(Session::get('role')!= 'receptionist')
             <td id="{{$huduma->id}}" class="links">
-                <a href="{{url("service/log/{$huduma->id}")}}"title="Logs" class="logs"><i class="fa fa-list text-info"></i> Logs</a>
-                <a href="{{ url("service/edit/{$huduma->id}")}}" title="edit Service" class="editservice"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
-<!--                <a href="{{ url("service/delete/{$huduma->id}")}}" title="delete Service" class="deleteservice"><i class="fa fa-trash-o text-info"></i> delete</a>-->
+                <a href="#b" title="edit Service" class="editservice btn btn-xs btn-info"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
                <a href="#s" title="delete service" class="deletservice btn btn-xs btn-danger"><i class="fa fa-trash-o text-info"></i> delete</a>
+
             </td>
+            @endif
         </tr>
         @endforeach
 
         </tbody>
         </table>
-    </div>
-</div>
 
 <!--script to process the list of service-->
 <script>
     $(document).ready(function (){
 
         $("#servicetable").dataTable({
-//            "bJQueryUI": true,
+          "bJQueryUI": true,
             "sPaginationType": "full_numbers",
             "fnDrawCallback": function( oSettings ) {
 //               $("#stafftable").find("td.links a").hide();
@@ -55,6 +49,12 @@
 //               },function(){
 //                   $(this).find("td.links a").hide();
 //               })
+
+                $(".editservice").click(function(){
+                    var id1 = $(this).parent().attr('id');
+                    $("#addservice").html("<br><i class='fa fa-spinner fa-spin'></i>loading...");
+                    $("#addservice").load("<?php echo url("service/edit") ?>/"+id1);
+                })
                 $(".deletservice").click(function(){
                     var id1 = $(this).parent().attr('id');
                     $(".deletservice").show("slow").parent().parent().find("span").remove();
@@ -79,4 +79,4 @@
 
     });
 </script>
-@stop
+

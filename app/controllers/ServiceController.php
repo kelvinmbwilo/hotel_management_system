@@ -9,8 +9,10 @@ class ServiceController extends \BaseController {
 	 */
 	public function index()
 	{
-		$service = Services::all();
-         return View::make('service.list', compact('service'));
+
+        return View::make('service.index');
+//
+
 	}
 
 	/**
@@ -33,7 +35,7 @@ class ServiceController extends \BaseController {
 		$service = Services::create(Input::all());
 
         $name = $service->name;
-           return View::make('service.add',compact('service'))->with('msg',$name. 'has been added');
+
 	}
 
 	/**
@@ -42,9 +44,10 @@ class ServiceController extends \BaseController {
 	 * @param  int  $id
 	 * @return Response
 	 */
-	public function show($id)
+	public function show()
 	{
-		//
+        $service = Services::all();
+        return View::make('service.list', compact('service'));
 	}
 
 	/**
@@ -76,9 +79,9 @@ class ServiceController extends \BaseController {
 
         $service->save();
 
-        $name = $service->name;
 
-        return View::make('service.list', compact('service'))->with('msg', $name. 'has been updated');
+
+
 	}
 
 	/**

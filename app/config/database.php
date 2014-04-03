@@ -66,9 +66,9 @@ return array(
 		'pgsql' => array(
 			'driver'   => 'pgsql',
 			'host'     => 'localhost',
-			'database' => 'database',
-			'username' => 'root',
-			'password' => '',
+			'database' => 'hotel_management_system',
+			'username' => 'udihis',
+			'password' => 'udihis',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 			'schema'   => 'public',

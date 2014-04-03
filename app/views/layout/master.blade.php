@@ -1,16 +1,19 @@
+
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-@if(Auth::guest())
-{{  Redirect::to("/")  }}
-@endif
+@if(!Session::has("email"))
+{{  Redirect::to("login")  }}
+
+@else
+
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Butman International</title>
+        <title>African Tourism Services International (T) Ltd</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {{ HTML::style("bootstrap/css/bootstrap.css") }}
         {{ HTML::style("bootstrap/css/bootstrap-theme.css") }}
@@ -49,4 +52,6 @@ and open the template in the editor.
         {{ HTML::script("DataTables/media/js/jquery.dataTables.js") }}
         {{ HTML::script("/js/jquery.form.js") }}
     </body>
+
 </html>
+@endif

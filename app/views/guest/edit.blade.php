@@ -1,16 +1,5 @@
-@extends('layout.master')
 
-@section('breadcumbs')
-<li><a href="#">Home</a></li>
-<li><a href="{{ url("guest/list") }}">Guest</a></li>
-<li class="active">edit</li>
-@stop
-
-@section('content')
-<div class="panel panel-default">
-    <div class="panel-body">
-
-        {{ Form::open(array("url"=>url('guest/edit/{$guest->id}'),"class"=>"form-horizontal")) }}
+        {{ Form::open(array("url"=>url("guest/edit/{$guest->id}"),"class"=>"form-horizontal","id"=>"FileUploader")) }}
         <h2 class="text-center text-muted">Edit Guest's Information</h2>
 
         <!--response messages-->
@@ -38,7 +27,7 @@
             <div class='form-group'>
                 {{ Form::label('middle_name', 'Middle Name',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>
-                    {{ Form::text('middle_name',$guest->middle_name,array('class'=>'form-control','placeholder'=>'Middle Name','required'=>'required')) }}
+                    {{ Form::text('middle_name',$guest->middle_name,array('class'=>'form-control','placeholder'=>'Middle Name')) }}
                 </div>
             </div>
 
@@ -55,13 +44,13 @@
             <div class='form-group'>
                 {{ Form::label('email', ' Email',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>
-                    {{ Form::email('email',$guest->email,array('class'=>'form-control','placeholder'=>'Email','required'=>'required')) }}
+                    {{ Form::email('email',$guest->email,array('class'=>'form-control','placeholder'=>'Email')) }}
                 </div>
             </div>
             <div class="form-group">
                 {{ Form::label('phone_number', 'Phone Number',array('class'=>'control-label col-sm-4')) }}
                 <div class="col-sm-8">
-                    {{Form::text('phone_number',$guest->phone_number,array('class'=>'form-control','placeholder'=>'Phone Number','required'=>'requiered'))}}
+                    {{Form::text('phone_number',$guest->phone_number,array('class'=>'form-control','placeholder'=>'Phone Number'))}}
                 </div>
             </div>
 
@@ -72,12 +61,34 @@
                 </div>
             </div>
         </div>
-
+           <div id="output"></div>
         <div class='col-sm-12 form-group text-center'>
             {{ Form::submit('Update Guest',array('class'=>'btn btn-primary','id'=>'submitqn')) }}
             {{ Form::reset('Reset',array('class'=>'btn btn-warning','id'=>'submitqn')) }}
         </div>
         {{ Form::close() }}
-    </div>
-</div>
-@stop
+
+        <script>
+            $(document).ready(function (){
+
+                $('#FileUploader').on('submit', function(e) {
+                    e.preventDefault();
+                    $("#output").html("<h3><i class='fa fa-spin fa-spinner '></i><span>Making changes please wait...</span><h3>");
+                    $(this).ajaxSubmit({
+                        target: '#output',
+                        success:  afterSuccess
+                    });
+
+                });
+
+                function afterSuccess(){
+                    $('#FileUploader').resetForm();
+                    setTimeout(function() {
+                        $("#output").html("");
+                        $("#addguest").load("<?php echo url("guest/add") ?>")
+                    }, 3000);
+                    $("#listguest").load("<?php echo url("guest/list") ?>")
+
+                }
+            });
+        </script>

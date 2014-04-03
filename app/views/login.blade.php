@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Green Financial Solutions</title>
+        <title>African Tourism Services International (T) Ltd</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {{ HTML::style("bootstrap/css/bootstrap.css") }}
         {{ HTML::style("bootstrap/css/bootstrap-theme.css") }}
@@ -69,7 +69,7 @@ and open the template in the editor.
 
                     </div>
                     
-                    <div class="panel-footer text-center text-primary">&COPY; {{ date("Y") }} Butman International</div>
+                    <div class="panel-footer text-center text-primary">&COPY; {{ date("Y") }} African Tourism Services International (T) Ltd</div>
                   </div>
         
             </div>

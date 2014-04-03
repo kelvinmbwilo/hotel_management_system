@@ -9,8 +9,9 @@ class UserController extends \BaseController {
      */
     public function index()
     {
-        $user = User::all();
-        Return View::make("user.list",compact('user'));
+        return View::make('user.index');
+//        $user = User::all();
+//        Return View::make("user.list",compact('user'));
     }
 
     /**
@@ -54,7 +55,7 @@ class UserController extends \BaseController {
                     "action"  =>"Add user named ".$name
 
                 ));
-                Return View::make("user.add")->with("msg",$name. " Added Successfull");
+
             }
         }else{
             Return View::make("user.add")->with("emsg","two password do not match");
@@ -107,8 +108,7 @@ class UserController extends \BaseController {
             "user_id"=>  Auth::user()->id,
             "action"  =>"Update user named ".$name
         ));
-        $user = User::all();
-        return View::make('user.list',  compact("user"))->with("msg" , "User Updated Successfull");
+
     }
 
     /**
@@ -136,6 +136,9 @@ class UserController extends \BaseController {
     {
         $user = User::where("email",Input::get('email'))->first();
         if($user && $user->password == Input::get('password')){
+            Session::put('id',$user->id);
+            Session::put('role',$user->access);
+            Session::put('email',$user->email);
             if(Input::get('keep') == "keep"){
                 Auth::login($user,TRUE);
             }else{
@@ -161,7 +164,26 @@ class UserController extends \BaseController {
      */
     public function logout(){
         Auth::logout();
-        return Redirect::to("/");
+        Session::flush();
+        return Redirect::to("login");
     }
 
 }
+//if($user->role=='admin'){
+//    return View::make('statistics');
+//}
+//elseif($user->role=='manager'){
+//    $station = Station::all();
+//
+//    return View::make('managerView');
+//}
+//
+//elseif ($user->role=='argent') {
+//    $parcel = Parcel::where('station_to',$user->station_id);
+//    return View::make('agentView');
+//}
+//
+//}
+//else{
+//    $errorMsg= 'email or password is incorrect';
+//    return View::make('user.login', compact('errorMsg'));

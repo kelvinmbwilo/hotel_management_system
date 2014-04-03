@@ -15,4 +15,7 @@ class Guest extends Eloquent {
         return $this->hasOne('Booking', 'guest_id', 'id');
     }
 
+    public function room(){
+        return $this->hasMany('RoomGuest', 'guest_id', 'id');
+    }
 }

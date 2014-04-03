@@ -14,7 +14,9 @@
 
 <div class="panel panel-default col-md-5">
     <div class="panel-body" id="addroom">
+        @if(Session::get('role')!= 'receptionist')
 @include('room.add')
+        @endif
     </div>
 </div>
 

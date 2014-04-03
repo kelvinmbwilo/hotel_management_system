@@ -23,4 +23,8 @@ class Room extends Eloquent {
         return $this->hasMany('Logs', 'room_id', 'id');
     }
 
+    public function guest(){
+        return $this->hasMany('RoomGuest', 'room_id', 'id');
+    }
+
 }

@@ -22,29 +22,31 @@ $room = Room::all();
                          {{ HTML::image("uploads/rooms/{$rooms->image}","",array('class'=>'img-rounded thumbnail','style'=>'height:100px;width:100px')) }}
                          @endif
                      </div>
-                     <div class="col-sm-8">
+                     <div class="col-sm-8" style="font-size: 12px">
                         <div class="col-xs-6">
-                            Name:{{$rooms->name}}<br><br>
-                            Category:{{ $rooms->category }}<br><br>
-                            Price:{{ $rooms->price }}
+                            Name : <strong>{{$rooms->name}}</strong><br><br>
+                            Category : <strong>{{ $rooms->category }}</strong><br><br>
+                            Price : <strong>{{ $rooms->price }}</strong>
                         </div>
                         <div class="col-xs-6">
-                            Bed Type:{{ $rooms->bed_type }}<br><br>
-                            Bed Size:{{ $rooms->bed_size }}<br><br>
-                            Status:{{ $rooms->status }}
+                            Bed Type : <strong>{{ $rooms->bed_type }}</strong><br><br>
+                            Bed Size : <strong>{{ $rooms->bed_size }}</strong><br><br>
+                            Status : <strong>{{ $rooms->status }}</strong>
                         </div>
                      </div>
                </div>
                <div class="col-xs-12 links" id="{{ $rooms->id }}">
+                   @if(Session::get('role')!= 'receptionist')
                    <a href="#a" title="edit Room" class="editroom btn btn-xs btn-info"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;
                    <a href="#s" title="delete Room" class="deleteroom btn btn-xs btn-danger"><i class="fa fa-trash-o text-info"></i> delete</a>&nbsp;&nbsp;&nbsp;
+                   @endif
                     <div class="btn-group">
                        <button type="button" class="btn btn-default dropdown-toggle btn-xs" data-toggle="dropdown">
                            Guest <span class="caret"></span>
                        </button>
                        <ul class="dropdown-menu" role="menu">
-                           <li><a href="{{ url("guest/add")}}"><i class="fa fa-plus-square-o"></i> Add</a></li>
-                           <li><a href="#"><i class="fa fa-th"></i> List</a></li>
+                           <li id="{{ $rooms->id }}"><a href="#s" class='addguest'><i class="fa fa-plus-square-o "></i> Add</a></li>
+                           <li id="{{ $rooms->id }}"><a href="#" class='listguest'><i class="fa fa-th"></i> List</a></li>
                      </ul>
                    </div>
                </div>
@@ -61,7 +63,7 @@ $room = Room::all();
     $(document).ready(function (){
 
         $("#roomtable").dataTable({
-//            "bJQueryUI": true,
+           "bJQueryUI": true,
             "sPaginationType": "full_numbers",
             "fnDrawCallback": function( oSettings ) {
 //               $("#stafftable").find("td.links a").hide();
@@ -75,6 +77,22 @@ $room = Room::all();
                     $("#addroom").html("<br><i class='fa fa-spinner fa-spin'></i>loading...");
                     $("#addroom").load("<?php echo url("room/edit") ?>/"+id1);
                 })
+
+                //listing guest that stays in that room
+                $(".listguest").click(function(){
+                    var id1 = $(this).parent().attr('id');
+                    $("#addroom").html("<br><i class='fa fa-spinner fa-spin'></i>loading...");
+                    $("#addroom").load("<?php echo url("room/listguest") ?>/"+id1);
+                })
+
+                //adding a guest to a room
+                $(".addguest").click(function(){
+                    var id1 = $(this).parent().attr('id');
+                    $("#addroom").html("<br><i class='fa fa-spinner fa-spin'></i>loading...");
+                    $("#addroom").load("<?php echo url("guest/add") ?>/"+id1);
+                })
+
+                //deleting a room
                 $(".deleteroom").click(function(){
                     var id1 = $(this).parent().attr('id');
                     $(".deleteroom").show("slow").parent().parent().find("span").remove();

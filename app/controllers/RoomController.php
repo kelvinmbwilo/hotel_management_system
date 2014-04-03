@@ -326,4 +326,43 @@ class RoomController extends \BaseController {
 
 	}
 
+    public function check($id){
+        $room = Room::find($id);
+       if($room->guest()->count() == 0){
+          $in = strtotime($_POST['from']);
+           $out = strtotime($_POST['to']);
+          return $room->guest()->where("check_in",">=",$_POST['from'])->where("check_out","<=",$_POST['to'])->count();
+       }else{
+           foreach($room->guest as $guest){
+
+                $cin = strtotime($guest->check_in);
+               $cout = strtotime($guest->check_out);
+               $in = strtotime($_POST['from']);
+               $out = strtotime($_POST['to']);
+               if($cin<$in && $cout >$in){
+                   return "not";
+               }
+               if($cin<$out && $cout >$out){
+                   return "not";
+               }
+
+               if($cin== $in && $cout == $out){
+                   return "not";
+               }
+
+               if($in<$cin && $out >$cin){
+                   return "not";
+               }
+               if($in<$cout && $out >$cout){
+                   return "not";
+               }
+           }
+       }
+    }
+
+    public function guestlist($id){
+        $room = Room::find($id);
+        return View::make("room.listguest",compact("room"));
+    }
+
 }
