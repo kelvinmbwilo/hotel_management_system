@@ -17,6 +17,14 @@
 
             </ul>
         </li>
+        <li class="submenu">
+            <a href="#"><i class="fa fa-rss fa-2x"></i> <span>Guest </span> <i class="fa fa-chevron-down pull-right"></i></a>
+            <ul>
+                <li><a href="{{ url("guests") }}"><i class='fa fa-plus'></i> Manage <i class="fa fa-chevron-right pull-right"></i></a></li>
+
+            </ul>
+        </li>
+
             <li class="submenu">
                     <a href="#"><i class="fa fa-apple fa-2x"></i> <span>Services</span> <i class="fa fa-chevron-down pull-right"></i></a>
                     <ul>
@@ -29,7 +37,7 @@
         <li class="submenu">
             <a href="#"><i class="fa fa-bar-chart-o fa-2x"></i> <span>Reports</span> <i class="fa fa-chevron-down pull-right"></i></a>
             <ul>
-                <li><a href="{{url("services")}}"><i class='fa fa-building-o'></i> Manage <i class="fa fa-chevron-right pull-right"></i></a></li>
+                <li><a href="{{url("report")}}"><i class='fa fa-building-o'></i> Manage <i class="fa fa-chevron-right pull-right"></i></a></li>
 
 
             </ul>

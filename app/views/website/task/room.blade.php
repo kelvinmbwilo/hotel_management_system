@@ -49,7 +49,7 @@
             modal+= '<div class="modal-content">';
             modal+= '<div class="modal-header">';
             modal+= '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
-            modal+= '<h4 class="modal-title" id="myModalLabel">Fill this form</h4>';
+            modal+= '<h4 class="modal-title" id="myModalLabel">Book This Room</h4>';
             modal+= '</div>';
             modal+= '<div class="modal-body">';
 
@@ -63,7 +63,7 @@
             $("body").append(modal);
             $("#myModal").modal("show");
             $(".modal-body").html("<h3><i class='fa fa-spin fa-spinner '></i><span>loading...</span><h3>");
-            $(".modal-body").load("<?php echo url("guest/add") ?>/"+id);
+            $(".modal-body").load("<?php echo url("guest/book") ?>/"+id);
             $("#myModal").on('hidden.bs.modal',function(){
                 $("#myModal").remove();
             })

@@ -33,7 +33,12 @@
                     </div>
 
                     <div class="col-sm-1 pull-right">
-                        <a class=" " ><i class="fa fa-comments"></i><span class="badge"></span></a>
+                        <a href="{{ url('guest/confirm_booking') }}" title="{{ Guest::where('status','Booked')->count() }} Guest(s) Waiting For Confirmation">
+                            <i class="fa fa-comments"></i>
+                            <span class="badge bookcount">{{ Guest::where('status','Booked')->count() }}</span></a>
+                        <script>
+
+                        </script>
                     </div>
 				</div>
 

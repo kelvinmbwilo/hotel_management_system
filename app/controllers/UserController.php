@@ -73,6 +73,9 @@ class UserController extends \BaseController {
         $user = User::find($id);
         return View::make("user.log",  compact("user"));
     }
+    public function listUser(){
+        return View::make('user.list');
+    }
 
     /**
      * Show the form for editing the specified resource.
@@ -108,7 +111,7 @@ class UserController extends \BaseController {
             "user_id"=>  Auth::user()->id,
             "action"  =>"Update user named ".$name
         ));
-
+return"Successfully updated";
     }
 
     /**

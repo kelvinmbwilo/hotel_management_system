@@ -108,11 +108,13 @@ Route::get('logout',array('as'=>'logout', 'uses'=>'UserController@logout'));
 //display a form to add new user
 Route::get('user',array('as'=>'adduser', 'uses'=>'UserController@index'));
 
+//display adding form
+Route::get('user/add',array('as'=>'adduser1', 'uses'=>'UserController@create'));
 //adding new user
 Route::post('user/add',array('as'=>'adduser1', 'uses'=>'UserController@store'));
 
 //viewing list of users
-Route::get('user/list',array('as'=>'listuser', 'uses'=>'UserController@show'));
+Route::get('user/list',array('as'=>'listuser', 'uses'=>'UserController@listUser'));
 
 //display a form to edit users information
 Route::get('user/edit/{id}',array('as'=>'edituser', 'uses'=>'UserController@edit'));
@@ -163,17 +165,36 @@ Route::get('room/listguest/{id}', array( 'uses'=>'RoomController@guestlist'));
 //display list of guest and form to add new guest
 Route::get('guest', array('as'=>'guest', 'uses'=>'GuestController@index'));
 
+Route::get('report', function(){
+    return "report";
+});
+
+Route::get('guest/add/{id}', array('as'=>'addguest', 'uses'=>'GuestController@create'));
+
+Route::get('guest/bookcount', function(){
+    return Guest::where('status','Booked')->count();
+});
+
+Route::get('guest/confirm_booking', array(function(){
+    return View::make('guest/confirmbooking');
+}));
+
 //display list of guest and form to add new guest
 Route::get('guest/{id}', array('as'=>'guest', 'uses'=>'GuestController@showinfo'));
 
 
-Route::get('guest/add/{id}', array('as'=>'addguest', 'uses'=>'GuestController@create'));
+Route::get('guest/book/{id}', array('uses'=>'GuestController@booking'));
 
 //adding new guest
 Route::post('guest/add/{id}', array('as'=>'addguest1', 'uses'=>'GuestController@store'));
 
 //list of guest
 Route::get('guest/list', array('as'=>'guests', 'uses'=>'GuestController@show'));
+
+///list all guests
+Route::get('guests', function(){
+    return View::make('guest.listAll');
+});
 
 //display a form to edit
 Route::get('guest/edit/{id}', array('as'=>'editguest', 'uses'=>'GuestController@edit'));
@@ -209,4 +230,7 @@ Route::post('service/delete/{id}', array('as'=>'deleteservice', 'uses'=>'Service
 
 //display room booking form
 Route::get('booking/add', array('as'=>'booking', 'uses'=>'BookingController@Create'));
+
+//display reports
+
 

@@ -18,7 +18,7 @@
 
                 </div>
                 <div class="col-xs-6">
-                    {{ $grooms->price }}Tsh<br>
+                    {{ $grooms->price }}USD<br>
                      {{ $grooms->bed_size }}<br>
                    <span class="text-warning">{{ $grooms->status }}</span> </strong>
                 </div>
@@ -72,7 +72,7 @@
                 <span class="help-block">Pick Services </span>
                 @foreach(Services::all() as $huduma)
                 <div class="col-sm-4">
-                    {{Form::checkbox('service[]',$huduma->id)}} {{$huduma->name}}
+                    {{Form::checkbox('service[A]',$huduma->id)}} {{$huduma->name}}
                 </div>
                  @endforeach
             </div>

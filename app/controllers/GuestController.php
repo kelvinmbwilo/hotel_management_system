@@ -24,6 +24,12 @@ class GuestController extends \BaseController {
 	  Return View::make('guest.add',compact("grooms"));
 	}
 
+    public function booking($id)
+    {
+        $grooms = Room::find($id);
+        Return View::make('guest.booking',compact("grooms"));
+    }
+
 	/**
 	 * Store a newly created resource in storage.
 	 *
@@ -32,12 +38,13 @@ class GuestController extends \BaseController {
 	public function store($id)
 	{
 		$guest = Guest::create(array(
-            "first_name" => Input::get("first_name"),
-            "middle_name" => Input::get("middle_name"),
-            "last_name" => Input::get("last_name"),
-            "email" => Input::get("email"),
-            "phone_number" => Input::get("phone_number"),
-            "country" => Input::get("country"),
+            "first_name"    => Input::get("first_name"),
+            "middle_name"   => Input::get("middle_name"),
+            "last_name"     => Input::get("last_name"),
+            "email"         => Input::get("email"),
+            "phone_number"  => Input::get("phone_number"),
+            "status"        =>(Input::has("booking"))?"Booked":"Stay",
+            "country"       => Input::get("country"),
 
         ));
           foreach(Input::get("service") as $huduma){
