@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'butman',
+			'database'  => 'hotel_management_system',
 			'username'  => 'root',
 			'password'  => 'kevdom',
 			'charset'   => 'utf8',
@@ -66,9 +66,9 @@ return array(
 		'pgsql' => array(
 			'driver'   => 'pgsql',
 			'host'     => 'localhost',
-			'database' => 'database',
-			'username' => 'root',
-			'password' => '',
+			'database' => 'hotel_management_system',
+			'username' => 'udhis',
+			'password' => 'udihis',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 			'schema'   => 'public',

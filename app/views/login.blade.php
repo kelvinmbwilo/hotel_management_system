@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Green Financial Solutions</title>
+        <title>African Tourism Services International (T) Ltd</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {{ HTML::style("bootstrap/css/bootstrap.css") }}
         {{ HTML::style("bootstrap/css/bootstrap-theme.css") }}
@@ -22,12 +22,12 @@ and open the template in the editor.
             <div class="container" style="padding-top: 160px">
                 <div class="panel panel-default col-sm-offset-2" style="width: 70%;">
                     <div class="panel-heading">
-                        <h3 class="panel-title text-center  text-primary"><b>BUTMAN INTERNATIONAL <span class="pull-right">Login</span></b></h3>
+                        <h3 class="panel-title text-center  text-primary"><b>AFRICAN TOURISM  SERVICES INTERNATIONAL (T) LTD <span class="pull-right">Login</span></b></h3>
                     </div>
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-md-5">
-                                {{ HTML::image("img/images.jpg","",array("class"=>"img-responsive")) }}
+                                {{ HTML::image("img/image1.jpg","",array("class"=>"img-responsive")) }}
                             </div>
                             <div class="col-md-7">
                                 @if(isset($error))
@@ -69,7 +69,7 @@ and open the template in the editor.
 
                     </div>
                     
-                    <div class="panel-footer text-center text-primary">&COPY; {{ date("Y") }} Butman International</div>
+                    <div class="panel-footer text-center text-primary">&COPY; {{ date("Y") }} African Tourism Services International (T) Ltd</div>
                   </div>
         
             </div>
