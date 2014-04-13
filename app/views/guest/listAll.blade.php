@@ -52,7 +52,7 @@ $option_array = array("all"=>"all","Stay"=>"staying","Booked"=>"booking")
                 <td>{{ $mgeni->first_name }}</td>
                 <td>{{ $mgeni->middle_name }}</td>
                 <td>{{ $mgeni->last_name }}</td>
-                <td>{{ $mgeni->country }}</td>
+                <td>{{ $mgeni->countries['name'] }}</td>
                 <td>{{ $mgeni->status }}</td>
                 <td id="{{ $mgeni->id }}" class="links">
                     @if($mgeni->status == "Stay")

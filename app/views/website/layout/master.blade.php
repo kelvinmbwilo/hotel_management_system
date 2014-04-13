@@ -40,8 +40,8 @@
 <div class="navbar-wrapper" >
     <div class="container" >
 
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-            <div class="container">
+        <div class="navbar navbar-inverse navbar-static-top" role="navigation" style="border-radius:10px;background-image: url(<?php echo asset("pattern/pattern111.jpg") ?>)">
+            <div class="container" >
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
@@ -51,9 +51,9 @@
                     </button>
                     <a class="navbar-brand" style="font-size: 25px">Tembo Tarangire</a>
                 </div>
-                <div class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav"  style="font-size: 18px">
-                        <li class="active"><a href="{{url('/')}}">Home</a></li>
+                <div class="navbar-collapse collapse" >
+                    <ul class="nav navbar-nav"  style="font-size: 18px;padding-left: 100px">
+                        <li><a href="{{url('/')}}">Home</a></li>
                         <li><a href="{{url('about')}}">About Us</a></li>
                         <li><a href="{{url('service')}}">Services</a></li>
                         <li><a href="{{url('activity')}}">Activities</a></li>

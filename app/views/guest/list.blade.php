@@ -21,7 +21,7 @@ $guest = Guest::all();
             <td>{{ $mgeni->first_name }}</td>
             <td>{{ $mgeni->middle_name }}</td>
             <td>{{ $mgeni->last_name }}</td>
-            <td>{{ $mgeni->country }}</td>
+            <td>{{ $mgeni->countries['name'] }}</td>
             <td id="{{ $mgeni->id }}" class="links">
 <!--                <a href="{{url("guest/log/{$mgeni->id}")}}"title="Logs" class="logs btn btn-xs btn-success"><i class="fa fa-list text-info"></i> Logs</a>&nbsp;&nbsp;&nbsp;-->
                 <a href="#a" title="edit Guest" class="editguest btn btn-xs btn-info"><i class="fa fa-pencil text-info"></i> edit</a>&nbsp;&nbsp;&nbsp;

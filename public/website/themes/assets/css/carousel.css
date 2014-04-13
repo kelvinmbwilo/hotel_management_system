@@ -95,12 +95,12 @@ body {
 
 
 /* Custom CSS =========================================== */
-.navbar-inverse {background-color: #efefef; border-color: #FF5200;}
+.navbar-inverse {box-shadow: 0 0 35px #D5D5D5;}
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus,
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {color: #fff; background-color: #c83a3a;}
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {background-color: #e4dcd2;}
-.navbar-inverse .navbar-toggle {border-color: #c83a3a;}
-.navbar-inverse .navbar-nav > li > a{color:#000}
+/*.navbar-inverse .navbar-toggle {border-color: #c83a3a;}*/
+.navbar-inverse .navbar-nav > li > a{color:#000;padding-right: 30px}
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{color:#C83A3A}
 
 a:hover{color:#563d7c}

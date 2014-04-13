@@ -42,6 +42,7 @@ and open the template in the editor.
                         @yield('breadcumbs')
                             
                       </ol>
+                @include("dashboard")
                     @yield("content")
                 </div>
             </div>
@@ -51,6 +52,9 @@ and open the template in the editor.
         {{ HTML::script("bootstrap/js/bootstrap.js") }}
         {{ HTML::script("DataTables/media/js/jquery.dataTables.js") }}
         {{ HTML::script("/js/jquery.form.js") }}
+        {{ HTML::script("Highcharts/js/highcharts.js") }}
+        {{ HTML::script("Highcharts/js/themes/gray.js") }}
+        {{ HTML::script("Highcharts/js/modules/exporting.js") }}
     </body>
 
 </html>

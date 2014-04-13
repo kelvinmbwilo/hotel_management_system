@@ -165,9 +165,7 @@ Route::get('room/listguest/{id}', array( 'uses'=>'RoomController@guestlist'));
 //display list of guest and form to add new guest
 Route::get('guest', array('as'=>'guest', 'uses'=>'GuestController@index'));
 
-Route::get('report', function(){
-    return "report";
-});
+
 
 Route::get('guest/add/{id}', array('as'=>'addguest', 'uses'=>'GuestController@create'));
 
@@ -239,5 +237,19 @@ Route::post('service/delete/{id}', array('as'=>'deleteservice', 'uses'=>'Service
 Route::get('booking/add', array('as'=>'booking', 'uses'=>'BookingController@Create'));
 
 //display reports
+Route::get('report', function(){
+    return View::make("reports.index");
+});
+
+//processing bar chat
+Route::post('report/bar', array( 'uses'=>'ReportController@displayBarChart'));
+
+//processing line chat
+Route::post('report/line', array( 'uses'=>'ReportController@displayLineChart'));
+
+//processing pie chat
+Route::post('report/pie', array( 'uses'=>'ReportController@displayPieChart'));
 
 
+//processing a table data
+Route::post('report/table', array( 'uses'=>'ReportController@table'));

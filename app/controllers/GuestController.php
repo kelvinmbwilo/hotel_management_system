@@ -57,6 +57,7 @@ class GuestController extends \BaseController {
         $room = RoomGuest::create(array(
             "room_id" => $id,
             "guest_id" => $guest->id,
+            "price"    => Room::find($id)->price,
             "check_in" => Input::get("from"),
             "check_out"=> Input::get("to"),
         ));

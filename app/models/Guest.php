@@ -22,4 +22,7 @@ class Guest extends Eloquent {
     public function service(){
         return $this->hasMany('BookingServices', 'guest_id', 'id');
     }
+    public function countries(){
+        return $this->belongsTo('Country', 'country', 'id');
+    }
 }

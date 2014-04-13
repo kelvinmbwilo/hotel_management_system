@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="col-sm-6">
-                    Country<br>{{Form::select('country',array("tz"=>"tz","ug"=>"ug"),'',array('class'=>'form-control','required'=>'requiered'))}}
+                    Country<br>{{Form::select('country',Country::all()->lists('name','id'),'466',array('class'=>'form-control','required'=>'requiered'))}}
                 </div>
             </div>
             <div class="form-group">
