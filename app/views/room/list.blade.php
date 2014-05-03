@@ -31,7 +31,7 @@ $room = Room::all();
                         <div class="col-xs-6">
                             Bed Type : <strong>{{ $rooms->bed_type }}</strong><br><br>
                             Bed Size : <strong>{{ $rooms->bed_size }}</strong><br><br>
-                            Status : <strong>{{ $rooms->status }}</strong>
+<!--                            Status : <strong>{{ $rooms->status }}</strong>-->
                         </div>
                      </div>
                </div>

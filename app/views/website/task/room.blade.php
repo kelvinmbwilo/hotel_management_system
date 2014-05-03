@@ -3,7 +3,7 @@
 @section('contents')
 <div class="pageTitle">
     <div class="container">
-        <h2>Rooms</h2>
+        <h2>Choose a Room for Booking Services</h2>
     </div>
 </div><br><br>
 <div class="container marketing">
@@ -19,6 +19,9 @@
                     <div class="col-lg-4">
                         <img style="height: 240px;width: 370px" class="img-thumbnail img-rounded img-responsive" src="{{asset("uploads/rooms/{$room->image}")}}" alt="Generic placeholder image">
                         <h4 class="lead">{{ $room->name }}</h4>
+                        <tr> <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category:&nbsp;&nbsp;</td><td class="lead">{{ $room->category }}&nbsp;Size</td><br>
+                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bed Type:&nbsp;&nbsp;</td> <td class="lead">{{ $room->bed_type }}</td><br>
+                            <td>Room Price:&nbsp;&nbsp;</td> <td class="lead">{{ $room->price }}</td><br></tr><br>
                         <p><a class="btn btn-default book" id='{{ $room->id }}' href="#" role="button" >Book Room  &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
             @if($i == 3 && $j<$no)
@@ -49,7 +52,7 @@
             modal+= '<div class="modal-content">';
             modal+= '<div class="modal-header">';
             modal+= '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
-            modal+= '<h4 class="modal-title" id="myModalLabel">Book This Room</h4>';
+            modal+= '<h2 class="modal-title" id="myModalLabel">Book This Room</h2>';
             modal+= '</div>';
             modal+= '<div class="modal-body">';
 

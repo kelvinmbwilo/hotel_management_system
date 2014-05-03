@@ -13,13 +13,13 @@
         <div class="col-xs-6">
             <strong>{{$grooms->name}}<br>
                 {{ $grooms->bed_type }}<br>
-                {{ $grooms->category }}<br>
+                {{ $grooms->category }}&nbsp; &nbsp; size<br>
 
         </div>
         <div class="col-xs-6">
             {{ $grooms->price }}Tsh<br>
             {{ $grooms->bed_size }}<br>
-            <span class="text-warning">{{ $grooms->status }}</span> </strong>
+<!--            <span class="text-warning">{{ $grooms->status }}</span> </strong>-->
         </div>
     </div>
 </div>

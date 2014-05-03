@@ -8,39 +8,10 @@
     </div>
 </div>
     <div class="item active">
-        <script
-            src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
-        </script>
-        <script>
-            var myCenter=new google.maps.LatLng(51.508742,-0.120850);
-            var marker;
-            function initialize()
-            {
-                var mapProp = {
-                    center:myCenter,
-                    zoom:15,
-                    mapTypeId:google.maps.MapTypeId.ROADMAP
-                };
-                var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-                marker=new google.maps.Marker({
-                    position:myCenter,
-                    // icon:'themes/assets/images/nepali-momo.png',
-                    animation:google.maps.Animation.BOUNCE
-                });
+            <section class="no-margin">
+                <iframe width="100%" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d509545.2802510039!2d35.925066623570245!3d-3.8482479208093365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1399123622520" width="600" height="450" frameborder="0" style="border:0"></iframe>
+            </section>
 
-                marker.setMap(map);
-
-                // Info open
-                var infowindow = new google.maps.InfoWindow({
-                    content:"Hello World!"
-                });
-
-                google.maps.event.addListener(marker, 'click', function() {
-                    infowindow.open(map,marker);
-                });
-            }
-            google.maps.event.addDomListener(window, 'load', initialize);
-        </script>
 </div>
 
 
@@ -50,7 +21,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="media">
-                    <a href="menu/"><img src="{{asset('website/themes/assets/images/nepali-momo.png')}}" alt="Generic placeholder image"> </a>
+                    <a href="menu/"><img src="{{asset('website/themes/assets/images/aru.jpg')}}" alt="Generic placeholder image"> </a>
                     <h3 class="media-heading text-primary-theme">ARUSHA</h3>
                     <div class="col">
                         <p class="pad">Ally Hassan Mwinyi Rd, Oil Com, Opp BMTL</p>
@@ -63,7 +34,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="media"><a href="menu/"><img src="{{asset('website/themes/assets/images/gorkha-special-chicken.png')}}" alt="Generic placeholder image"> </a>
+                <div class="media"><a href="menu/"><img src="{{asset('website/themes/assets/images/dar.jpg')}}" alt="Generic placeholder image"> </a>
                     <h3 class="media-heading text-primary-theme">DAR ES SALAAM</h3>
                     <div class="col">
                         <p class="pad">Ally Hassan Mwinyi Rd, Oil Com, Opp BMTL</p>
@@ -77,9 +48,8 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="media">
-                    <a href="menu/"><img src="{{asset('website/themes/assets/images/znzibar.png')}}" alt="Generic placeholder image"> </a>
-                    <h3 class="media-heading text-primary-theme">Zanzibar</h3>
+                <div class="media"<a href="menu/"><img  style="width: 200px; height: 300px" src="{{asset('website/themes/assets/images/zenji.jpg')}}" alt="Generic placeholder image"> </a>
+                    <h3 class="media-heading text-primary-theme">ZANZIBAR</h3>
                     <div class="col">
                         <p class="pad">Ally Hassan Mwinyi Rd, Oil Com, Opp BMTL</p>
                         <p class="cols"> Freephone:+255 754 319 653<br>

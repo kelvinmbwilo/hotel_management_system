@@ -80,6 +80,23 @@ Route::get('activities', function()
     return View::make('website.task.activities');
 });
 
+Route::get('restaurant', function()
+{
+    return View::make('website.task.restaurant');
+});
+
+Route::get('lodge', function()
+{
+    return View::make('website.task.lodge');
+});
+
+Route::get('hotelGuide', function()
+{
+    return View::make('website.task.hotelGuide');
+});
+
+
+
 Route::get('login', function()
 {
 	return View::make('login');
@@ -209,6 +226,12 @@ Route::post('guest/edit/{id}', array('as'=>'editguest', 'uses'=>'GuestController
 
 //deletes the guest
 Route::post('guest/delete/{id}', array('as'=>'deleteguest', 'uses'=>'GuestController@destroy'));
+
+//email form for guest booking
+Route::get('emailSend', function()
+{
+    return View::make('emailSending');
+});
 
 
 // display form that adds services
