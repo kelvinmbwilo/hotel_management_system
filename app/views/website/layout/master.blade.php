@@ -49,7 +49,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" style="font-size: 25px">Tembo Tarangire</a>
+                    <a class="navbar-brand" style="font-size: 30px">Tembo Tarangire</a>
                 </div>
                 <div class="navbar-collapse collapse" >
                     <ul class="nav navbar-nav"  style="font-size: 18px;padding-left: 100px">
@@ -57,10 +57,12 @@
                         <li><a href="{{url('about')}}">About Us</a></li>
                         <li><a href="{{url('service')}}">Services</a></li>
                         <li><a href="{{url('activity')}}">Activities</a></li>
-                        <li><a href="{{url('room')}}">Room Booking</a></li>
+                        <li><a href="{{url('room')}}">Booking</a></li>
                         <li><a href="{{url('gallery')}}">Gallery</a></li>
                         <li><a href="{{url('contact')}}">Contact</a></li>
+<!--                        <li><a  href="{{url('login')}}">Login</a></li>-->
                     </ul>
+
                 </div>
             </div>
         </div>
@@ -90,13 +92,14 @@
                     gazelle join the wildebeest’s trek for fresh grazing.<br>
 
                 </p>
-                <p><a class="btn btn-default" href="{{url('tourism')}}" role="button">Read More &raquo;</a></p>
+                <p><a class="btn btn-default" href="{{url('tourism')}}" role="button">More &raquo;</a></p>
             </div>
 
             <div class="col-lg-3">
                 <h3>Special Offers</h3>
                 <p>
-                    At Tembo Tarangire lodge we also accommodate camping, whereby the area for camping can take
+                    Other activities  that  we offer at the Lodge are , Night game drive,Walking surrounding the
+                    bush &Traditional maasai dance,birds walk/sunrise/suset view
                 </p>
                 <a href="menu/"><img src="{{asset('website/themes/assets/images/offer.png')}}" alt="Generic placeholder image"> </a>
             </div>
@@ -113,11 +116,11 @@
             <div class="item active">
                 <div class="row featurette">
                     <div class="col-md-7">
-                        <h2 class="featurette-heading">Fish and Chips <span class="text-muted">It's very very testy</span></h2>
-                        <p class="lead">At Tembop Tarangire lodge we also accommodate camping, whereby the area for camping can tak</p>
+                        <h2 class="featurette-heading">Chips <span class="text-muted">It's very  tasty</span></h2>
+                        <p class="lead">One of the favorite junk foods in Tanzania is known as chips mayai, basically translating to chips and eggs.</p>
                     </div>
                     <div class="col-md-5">
-                        <img src="{{asset('website/themes/assets/images/fish-and-chips.png')}}" alt="Fish and Chips">
+                        <img  class="img"  style="width: 400px; height: 300px;padding-top: 50px" src="{{asset('website/themes/assets/images/chip.jpg')}}" alt="Fish and Chips">
                     </div>
                 </div>
             </div>
@@ -126,11 +129,11 @@
             <div class="item">
                 <div class="row featurette">
                     <div class="col-md-5">
-                        <img src="{{asset('website/themes/assets/images/burger.png')}}" alt="Generic placeholder image">
+                        <img  class="img"  style="width: 400px; height: 300px;padding-top: 50px" src="{{asset('website/themes/assets/images/pizza.jpg')}}" alt="Generic placeholder image">
                     </div>
                     <div class="col-md-7">
-                        <h2 class="featurette-heading">Oh yeah, very nice Burger. <span class="text-muted">Delicious.</span></h2>
-                        <p class="lead">At Tembo Tarangire lodge we also accommodate camping, whereby the area for camping can tak</p>
+                        <h2 class="featurette-heading">Oh yeah, very nice Pizza. <span class="text-muted">Delicious.</span></h2>
+                        <p class="lead">May just be the best-kept pizza.... Come and enjoy it.</p>
                     </div>
                 </div>
             </div>
@@ -139,14 +142,29 @@
             <div class="item">
                 <div class="row featurette">
                     <div class="col-md-7">
-                        <h2 class="featurette-heading">Try yourself <span class="text-muted">Testy</span></h2>
-                        <p class="lead">At Tembo Tarangire lodge we also accommodate camping, whereby the area for camping can tak</p>
+                        <h2 class="featurette-heading">Try yourself <span class="text-muted">Tasty</span></h2>
+                        <p class="lead">Red wine and something in it called resveratrol may be good for your heart...</p>
                     </div>
                     <div class="col-md-5">
-                        <img class="img-circle" src="{{asset('website/themes/assets/images/drinks.png')}}" alt="Generic placeholder image">
+                        <img  class="img"  style="width: 300px; height: 300px;padding-top: 50px"  src="{{asset('website/themes/assets/images/ima.jpg')}}" alt="Generic placeholder image">
                     </div>
                 </div>
             </div>
+
+            <div class="item">
+                <div class="row featurette">
+                    <div class="col-md-5">
+                        <img  class="img"  style="width: 400px; height: 300px;padding-top: 50px" src="{{asset('website/themes/assets/images/kuku.jpg')}}" alt="Generic placeholder image">
+                    </div>
+                    <div class="col-md-7">
+                        <h2 class="featurette-heading">Very nice Chicken. <span class="text-muted">Delicious.</span></h2>
+                        <p class="lead">What more can we say? The classic roast chicken is something everyone should know and can always save the day...</p>
+                    </div></p>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div><!-- /.carousel -->
 </div><!-- /.container -->

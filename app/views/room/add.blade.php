@@ -24,17 +24,15 @@
                 <div class="col-sm-6">
                    Bed Types<br> {{Form::select('bed_type',array("doubleDeca"=>"Double Deca","singleDeca"=>"Single Deca"),'',array('class'=>'form-control','required'=>'requiered'))}}
                 </div>
-                <div class="col-sm-6">
-                    Status <br>{{Form::select('status',array("occupied"=>"occupied","open"=>"open"),'',array('class'=>'form-control','required'=>'requiered'))}}
+                <div class='col-sm-6'>
+                    Category <br>{{Form::select('category',array("Single"=>"Single","Doubles"=>"Doubles","Delux"=>"Delux","Triples"=>"Triples"),'',array('class'=>'form-control','required'=>'requiered'))}}
                 </div>
             </div>
             <div class='form-group'>
                 <div class='col-sm-6'>
                     Number Of Beds <br>{{ Form::select('number_of_beds',range('0','15'),'',array('class'=>'form-control','placeholder'=>'# of beds','required'=>'required')) }}
                 </div>
-                <div class='col-sm-6'>
-                    Category <br>{{Form::select('category',array("Familly"=>"Familly","Bachelor"=>"Bachelor"),'',array('class'=>'form-control','required'=>'requiered'))}}
-                </div>
+
 
 
             </div>
