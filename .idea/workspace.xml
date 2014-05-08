@@ -2,255 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cfe066-c939-46aa-bb8b-a4e7ed32341c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/AbstractPool$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/AbstractPool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/BlockingQueuePool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/com/highcharts/export/filter/CorsFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/com/highcharts/export/filter/CorsFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/com/highcharts/export/controller/ExportController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/com/highcharts/export/controller/ExportController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/Highcharts-icon-160px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/Highcharts-icon-160px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/util/MimeType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectPool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/PoolException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverterException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory$PortStatus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/ServerState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/util/TempDir.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/TimeOut.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/asm-3.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/cglib-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-codec-1.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-io-1.3.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-lang-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/gson-2.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/highcharts-export-convert-2.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/highcharts-export-convert.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/jstl-1.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/log4j-1.2.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/graphics/skies.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/graphics/snow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/standard-1.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/graphics/sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/gfx/vml-radial-gradient.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/AbstractPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/BlockingQueuePool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/java/com/highcharts/export/filter/CorsFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Country.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/java/com/highcharts/export/controller/ExportController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/util/MimeType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/PoolException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/ReportController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverterException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ServerObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/ServerState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/util/TempDir.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/TimeOut.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/annotations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/annotations.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/app-convert.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/app-convert.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/callback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/callback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/canvas-tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/canvas-tools.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/closetag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/closetag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/META-INF/context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/META-INF/context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/themes/dark-blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/themes/dark-green.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/dashboard.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/data.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/demo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/demo.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/demo_jsp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/drilldown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/drilldown.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/error_jsp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/spring/export-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/export-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/spring/export-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/exporting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/exporting.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/foldcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/foldcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/formatting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/formatting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/funnel.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/themes/gray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/themes/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/heatmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/heatmap.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/highcharts-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-convert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-convert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/highcharts-convert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/highcharts-more.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/highcharts.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highstock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/reports/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/php/php-batik/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/javascript-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/javascript-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/jquery.1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/jquery.1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/jquery.1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/lexl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/lexl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/loadmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/loadmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/map.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/match-highlighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/match-highlighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/mootools-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/mootools-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/multiplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/multiplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/no-data-to-display.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/modules/no-data-to-display.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/overlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/overlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/pig-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/pig-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/prototype-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/prototype-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/phantomjs/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode-standalone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode-standalone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/searchcursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/searchcursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/themes/skies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/spring/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/spring/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/spring-convert.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/spring-convert.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/standalone-framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/js/adapters/standalone-framework.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/typescript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/typescript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00007190.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00012170.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00018866.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019274.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019514.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019517.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019520.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019523.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019526.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019529.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019532.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019535.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019538.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019541.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019544.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_4ea46bb1_141e4a5a8ac__8000_00019547.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00013520.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00016984.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018169.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018319.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018655.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018673.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018760.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018823.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018826.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018829.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018832.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00018835.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/xml-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/xml-hint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Highcharts/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/xml.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Guest.php" afterPath="$PROJECT_DIR$/app/models/Guest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/GuestController.php" afterPath="$PROJECT_DIR$/app/controllers/GuestController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/guest/add.blade.php" afterPath="$PROJECT_DIR$/app/views/guest/add.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/guest/booking.blade.php" afterPath="$PROJECT_DIR$/app/views/guest/booking.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/css/carousel.css" afterPath="$PROJECT_DIR$/public/website/themes/assets/css/carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/style/delta.grey.css" afterPath="$PROJECT_DIR$/public/website/style/delta.grey.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/dashboard/index.blade.php" afterPath="$PROJECT_DIR$/app/views/dashboard/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/guest/list.blade.php" afterPath="$PROJECT_DIR$/app/views/guest/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/guest/listAll.blade.php" afterPath="$PROJECT_DIR$/app/views/guest/listAll.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layout/master.blade.php" afterPath="$PROJECT_DIR$/app/views/layout/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/website/layout/master.blade.php" afterPath="$PROJECT_DIR$/app/views/website/layout/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/testmenu.blade.php" afterPath="$PROJECT_DIR$/app/views/testmenu.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hotel_management_system.iws" />
@@ -283,15 +34,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testmenu.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="63" selection-start="462" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="936">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dashboard.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -301,19 +43,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/guest/add.blade.php">
+      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="21" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2880">
+            <state line="5" column="14" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1116">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/User.php">
+      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2444" max-vertical-offset="3546">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="35" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1206">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filters.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/filters.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="67" selection-start="680" selection-end="680" vertical-scroll-proportion="-0.31889763" vertical-offset="486" max-vertical-offset="1368">
               <folding />
             </state>
           </provider>
@@ -332,15 +92,6 @@
         <entry file="file://$PROJECT_DIR$/public/website/bootstrap/dist/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="214" selection-start="359" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="216">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ie.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/website/css/ie.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
               <folding />
             </state>
           </provider>
@@ -842,6 +593,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -854,7 +623,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="SearchEverywhereHistory" value="&#10;o" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cancer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../canreg" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
@@ -886,27 +655,33 @@
       <created>1396719529934</created>
       <updated>1396719529934</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding statistics">
+      <created>1397365811717</created>
+      <updated>1397365811717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="741" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22575757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -924,21 +699,13 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="adding statistics" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding statistics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/ReportController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="2448" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="248" column="66" selection-start="7276" selection-end="7276" vertical-scroll-proportion="0.0" vertical-offset="4216" max-vertical-offset="4572" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/reports/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="92" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.0" vertical-offset="503" max-vertical-offset="2556" />
@@ -1082,11 +849,6 @@
         <state line="9" column="64" selection-start="297" selection-end="303" vertical-scroll-proportion="-1.9769231" vertical-offset="1190" max-vertical-offset="1710" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="35" selection-start="1812" selection-end="1812" vertical-scroll-proportion="-15.333333" vertical-offset="378" max-vertical-offset="1206" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dashboard/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.033771105" vertical-offset="108" max-vertical-offset="990" />
@@ -1129,9 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/website/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/website/style/delta.grey.css">
@@ -1171,9 +931,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="63" selection-start="462" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="936">
-          <folding />
-        </state>
+        <state line="6" column="63" selection-start="462" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dashboard.blade.php">
@@ -1190,9 +948,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/guest/add.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="21" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2880">
-          <folding />
-        </state>
+        <state line="101" column="21" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/reports/index.blade.php">
@@ -1202,7 +958,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
+        <state line="5" column="14" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1116">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2444" max-vertical-offset="3546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="35" selection-start="1812" selection-end="1812" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1206">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/filters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="67" selection-start="680" selection-end="680" vertical-scroll-proportion="-0.31889763" vertical-offset="486" max-vertical-offset="1368">
           <folding />
         </state>
       </provider>
