@@ -27,14 +27,14 @@
             </div>
 
             <div class="item">
-                <img src="{{asset('website/themes/assets/images/2.png')}}" alt="Generic placeholder image">
+                <img src="{{asset('website/themes/assets/images/1.png')}}" alt="Generic placeholder image">
                 <div class="carousel-caption">
                     <a class="btn btn-lg btn-default" href="{{url('room')}}" role="button" style="font-size:2em">Book Room Online Now &raquo;</a>
                 </div>
             </div>
 
             <div class="item">
-                <img src="{{asset('website/themes/assets/images/3.png')}}" alt="Generic placeholder image">
+                <img src="{{asset('website/themes/assets/images/1.png')}}" alt="Generic placeholder image">
                 <div class="carousel-caption">
                     <a class="btn btn-lg btn-default" href="{{url('room')}}" role="button" style="font-size:2em">Book Room Online Now &raquo;</a>
                 </div>
@@ -76,7 +76,7 @@
         <div class="col-lg-4">
             <i class="fa fa-key fa-5x text-success"></i><br>
             <h2 class="text-info"><img class="img-circle" src="{{asset('website/themes/assets/images/title_marker2.jpg')}}" alt="Generic placeholder image">Hotel Guide</h2>
-            <p>At Tembo Tarangire lodge we also accommodate camping, whereby the area for camping can take </p>
+            <p>These rules apply when you, as a private individual, book or stay at a hotel. </p><br>
             <p><a class="btn btn-default" href="{{url('hotelGuide')}}" role="button">More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">

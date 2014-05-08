@@ -228,10 +228,7 @@ Route::post('guest/edit/{id}', array('as'=>'editguest', 'uses'=>'GuestController
 Route::post('guest/delete/{id}', array('as'=>'deleteguest', 'uses'=>'GuestController@destroy'));
 
 //email form for guest booking
-Route::get('emailSend', function()
-{
-    return View::make('emailSending');
-});
+Route::get('emailSend', array('as'=>'sendMail', 'uses'=>'GuestController@sendMail'));
 
 
 // display form that adds services

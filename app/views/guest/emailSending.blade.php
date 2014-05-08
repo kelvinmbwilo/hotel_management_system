@@ -61,7 +61,7 @@ and open the template in the editor.
     <div class="row col-sm-12 text-primary" style="padding: 10px">
 <div class = "col-sm-5">
 
-    Dear  <br>
+    Dear    <br>
     Email<br>
     Phone Number<br>
     Country

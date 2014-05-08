@@ -13,6 +13,12 @@ class GuestController extends \BaseController {
         return View::make('guest.index');
 	}
 
+    public function sendMail()
+    {
+//        $guest = RoomGuest::find($id);
+        return View::make('guest.emailSending',compact("guest"));
+    }
+
 	/**
 	 * Show the form for creating a new resource.
 	 * @param  int  $id
@@ -86,8 +92,10 @@ class GuestController extends \BaseController {
 	public function showinfo($id)
 	{
         $guest = Guest::find($id);
+
 		return View::make("guest.info",compact("guest"));
 	}
+
 
 	/**
 	 * Show the form for editing the specified resource.

@@ -44,7 +44,7 @@
             <div class="item">
                 <div class="row featurette">
                     <div class="col-md-7">
-                        <h2 class="featurette-heading">Try yourself; <span class="text-muted">Testy</span></h2>
+                        <h2 class="featurette-heading">Try yourself; <span class="text-muted">Tasty</span></h2>
                         <p class="lead">At Tembo Tarangire lodge we also accommodate camping, whereby the area for camping can tak</p>
                     </div>
                     <div class="col-md-5">
