@@ -53,11 +53,14 @@ class GuestController extends \BaseController {
             "country"       => Input::get("country"),
 
         ));
-          foreach(Input::get("service") as $huduma){
+        if(Input::has("service") && count(Input::get("service")) != 0){
+
+        foreach(Input::get("service") as $huduma){
            BookingServices::create(array(
             "guest_id"=>$guest->id,
             "service_id"=>$huduma
         ));
+        }
     }
 
         $room = RoomGuest::create(array(
