@@ -72,8 +72,8 @@
    @yield('contents')
 <div class="introSection">
     <div class="container" style="font-family: Maven Pro;">
-        <div class="row">
-            <div class="col-lg-5">
+        <div class="market-container col-md-12">
+            <div class="col-md-5">
                 <h3>Welcome to Tembo Tarangire</h3>
                 <p>
                     Butman International Ltd is a legally registered Company in Tanzania with a certificate of Incorporation
@@ -84,7 +84,7 @@
                 </p>
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-md-4">
                 <h2>Tourism</h2>
                 <p>
                     Tanzania's oldest and most popular national park, the Serengeti is famed for its annual migration,
@@ -95,7 +95,7 @@
                 <p><a class="btn btn-default" href="{{url('tourism')}}" role="button">More &raquo;</a></p>
             </div>
 
-            <div class="col-lg-3">
+            <div class="col-md-3">
                 <h3>Special Offers</h3>
                 <p>
                     Other activities  that  we offer at the Lodge are , Night game drive,Walking surrounding the
