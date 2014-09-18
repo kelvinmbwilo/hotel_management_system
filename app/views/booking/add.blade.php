@@ -31,27 +31,27 @@
         <div class='col-sm-6'>
 
             <div class='form-group'>
-                {{ Form::label('guest_id', 'Sevice Name',array('class'=>'control-label col-sm-4')) }}
+                {{ Form::label('guest_id', 'guest id',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>{{ Form::text('guest_id','',array('class'=>'form-control','placeholder'=>'Room id','required'=>'required')) }} </div>
             </div>
 
             <div class='form-group'>
-                {{ Form::label('room_id', 'Last Name',array('class'=>'control-label col-sm-4')) }}
+                {{ Form::label('room_id', 'room id',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>{{ Form::text('room_id','',array('class'=>'form-control','placeholder'=>' room id','required'=>'required')) }} </div>
             </div>
 
             <div class='form-group'>
-                {{ Form::label('cost', 'Last Name',array('class'=>'control-label col-sm-4')) }}
+                {{ Form::label('cost', 'cost',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>{{ Form::text('cost','',array('class'=>'form-control','placeholder'=>' cost','required'=>'required')) }} </div>
             </div>
 
             <div class='form-group'>
-                {{ Form::label('checkin', 'Middle Name',array('class'=>'control-label col-sm-4')) }}
+                {{ Form::label('checkin', 'check in',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>{{ Form::text('checkin','',array('class'=>'form-control')) }} </div>
             </div>
 
             <div class='form-group'>
-                {{ Form::label('checkout', 'Middle Name',array('class'=>'control-label col-sm-4')) }}
+                {{ Form::label('checkout', 'check out',array('class'=>'control-label col-sm-4')) }}
                 <div class='col-sm-8'>{{ Form::text('checkout','',array('class'=>'form-control')) }} </div>
             </div>
             <div class='col-sm-12 form-group text-center'>
