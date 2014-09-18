@@ -60,7 +60,6 @@ class RoomController extends \BaseController {
                "category" => Input::get("category"),
                "price" => Input::get("price"),
                "description" => Input::get("description"),
-               "status" => Input::get("status"),
            ));
            if(Input::file('img2')){
                $file = Input::file('img2'); // your file upload input field in the form should be named 'file'
@@ -146,7 +145,6 @@ class RoomController extends \BaseController {
             "category" => Input::get("category"),
             "price" => Input::get("price"),
             "description" => Input::get("description"),
-            "status" => Input::get("status"),
         ));
         $log = $room->name;
         Logs::create(array(

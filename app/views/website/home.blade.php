@@ -112,7 +112,7 @@
     </div>
 <br>
 <div class="container marketing">
-    <div id="myCarousel6" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel3" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <div class="carousel-inner">
 
@@ -121,14 +121,14 @@
                     @foreach($rooms as $room)
                     <?php $i++; $j++;?>
 
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <img style="height: 240px;width: 370px" class="img-thumbnail img-rounded img-responsive" src="{{asset("uploads/rooms/{$room->image}")}}" alt="Generic placeholder image">
-                        <h4 class="lead" style="text-align: center">{{ $room->name }}</h4>
-                       <tr> <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category:&nbsp;&nbsp;</td><td class="lead">{{ $room->category }}&nbsp;Size</td><br>
-                           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bed Type:&nbsp;&nbsp;</td> <td class="lead">{{ $room->bed_type }}</td><br>
-                           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room Price:&nbsp;&nbsp;</td> <td class="lead">{{ $room->price }}</td><br></tr><br>
-                        <p><a class="btn btn-default book" style="align-items: center" id='{{ $room->id }}' href="#" role="button" >Book Room  &raquo;</a></p>
-                    </div><!-- /.col-md-4 -->
+                        <h4 class="lead">{{ $room->name }}</h4>
+                        <tr> <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category:&nbsp;&nbsp;</td><td class="lead">{{ $room->category }}&nbsp;Size</td><br>
+                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bed Type:&nbsp;&nbsp;</td> <td class="lead">{{ $room->bed_type }}</td><br>
+                            <td>Room Price:&nbsp;&nbsp;</td> <td class="lead">{{ $room->price }}</td><br></tr><br>
+                        <p><a class="btn btn-default book" id='{{ $room->id }}' href="#" role="button" >Book Room  &raquo;</a></p>
+                    </div><!-- /.col-lg-4 -->
                     @if($i == 3 && $j<$no)
                 </div></div><div class="item"><div class="row">
                     <?php $i = 0; ?>
@@ -141,6 +141,8 @@
         <a class="right carousel-control" href="#myCarousel3" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
 </div>
+
+
 
 <script>
     $(document).ready(function(){
@@ -169,7 +171,7 @@
             $("body").append(modal);
             $("#myModal").modal("show");
             $(".modal-body").html("<h3><i class='fa fa-spin fa-spinner '></i><span>loading...</span><h3>");
-            $(".modal-body").load("<?php echo url("guest/add") ?>/"+id);
+            $(".modal-body").load("<?php echo url("guest/book") ?>/"+id);
             $("#myModal").on('hidden.bs.modal',function(){
                 $("#myModal").remove();
             })

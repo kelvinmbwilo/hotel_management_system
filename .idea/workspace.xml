@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cfe066-c939-46aa-bb8b-a4e7ed32341c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/2.png" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/3.png" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/Buttermilk-fried-chicken-recipe-2.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/Buttermilk-fried-chicken-recipe-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/Restaurant-Blue-2-icon.png" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/Restaurant-Blue-2-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/activitiesIcon.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/activitiesIcon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/arr.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/arr.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/arrival.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/arrival.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/book.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/book.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/cancel.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/cancel.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/chip.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/chip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/cigarette.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/cigarette.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/credit.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/credit.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/dep.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/dep.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/gold.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/gold.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/ima.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/ima.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images1.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images2.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images3.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images4.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/images5.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/images5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/kuku.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/kuku.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/laptop.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/laptop.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/liab.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/liab.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/lodge.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/lodge.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/luggage.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/luggage.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/luggage2.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/luggage2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/mizigo.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/mizigo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/nyama.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/nyama.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/payment.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/payment.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/penalt.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/penalt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/pets.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/pets.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/pizza.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/pizza.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/rule.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/rule.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/safety.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/safety.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/stolen.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/stolen.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/storage.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/storage.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/thanx.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/thanx.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/tour.jpg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/tour.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/RoomController.php" afterPath="$PROJECT_DIR$/app/controllers/RoomController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/website/themes/assets/images/banner.svg" afterPath="$PROJECT_DIR$/public/website/themes/assets/images/banner.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/website/home.blade.php" afterPath="$PROJECT_DIR$/app/views/website/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/website/layout/master.blade.php" afterPath="$PROJECT_DIR$/app/views/website/layout/master.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hotel_management_system.iws" />
@@ -28,7 +72,7 @@
       <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/website/layout/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="34" selection-start="3604" selection-end="3604" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="3564">
+            <state line="56" column="47" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.0" vertical-offset="524" max-vertical-offset="3582">
               <folding />
             </state>
           </provider>
@@ -37,44 +81,80 @@
       <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/website/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="125" selection-start="7000" selection-end="7000" vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="3330">
+            <state line="109" column="27" selection-start="5114" selection-end="5114" vertical-scroll-proportion="-11.777778" vertical-offset="1644" max-vertical-offset="2754">
+              <folding>
+                <element signature="tag#script#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="52" selection-start="250" selection-end="250" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="468">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GuestController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/GuestController.php">
+      <file leaf-file-name="testmenu.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="-6.5185184" vertical-offset="760" max-vertical-offset="2916">
+            <state line="39" column="71" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-26.0" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Guest.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/Guest.php">
+      <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="202" selection-end="295" vertical-scroll-proportion="0.55021834" vertical-offset="36" max-vertical-offset="594">
+            <state line="3" column="46" selection-start="68" selection-end="68" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="1206">
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/dashboard/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="22" selection-start="391" selection-end="391" vertical-scroll-proportion="-11.259259" vertical-offset="20" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Booking.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Booking.php">
+      <file leaf-file-name="add.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/room/add.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="315" selection-end="406" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="558">
+            <state line="10" column="18" selection-start="449" selection-end="449" vertical-scroll-proportion="0.9259259" vertical-offset="205" max-vertical-offset="1638">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arusha.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/website/task/arusha.blade.php">
+      <file leaf-file-name="RoomController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/RoomController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="18" selection-start="2366" selection-end="2574" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="954">
+            <state line="61" column="58" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.33333334" vertical-offset="933" max-vertical-offset="6678">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="room.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/website/task/room.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="9" selection-start="186" selection-end="3484" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="342">
+              <folding>
+                <element signature="tag#div#1" expanded="false" />
+                <element signature="tag#script#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,16 +162,7 @@
       <file leaf-file-name="activities.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/website/task/activities.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="2960" selection-end="2960" vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="2124">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/website/task/service.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="4426" selection-end="4427" vertical-scroll-proportion="0.0" vertical-offset="1622" max-vertical-offset="2214">
+            <state line="68" column="44" selection-start="3349" selection-end="3349" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2124">
               <folding />
             </state>
           </provider>
@@ -110,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/config/database.php" />
         <option value="$PROJECT_DIR$/app/views/guest/confirmbooking.blade.php" />
         <option value="$PROJECT_DIR$/app/models/Country.php" />
         <option value="$PROJECT_DIR$/app/models/Guest.php" />
@@ -120,7 +190,6 @@
         <option value="$PROJECT_DIR$/app/views/test.blade.php" />
         <option value="$PROJECT_DIR$/app/views/dashboard/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/app/views/layout/master.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/dashboard/index.blade.php" />
         <option value="$PROJECT_DIR$/app/views/reports/index.blade.php" />
         <option value="$PROJECT_DIR$/app/controllers/ReportController.php" />
         <option value="$PROJECT_DIR$/public/website/style/delta.grey.css" />
@@ -139,7 +208,6 @@
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/views/guest/emailSending.blade.php" />
         <option value="$PROJECT_DIR$/app/views/website/task/gallery.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/website/layout/master.blade.php" />
         <option value="$PROJECT_DIR$/app/views/website/task/about.blade.php" />
         <option value="$PROJECT_DIR$/app/views/website/task/contact.blade.php" />
         <option value="$PROJECT_DIR$/app/views/website/task/tourism.blade.php" />
@@ -152,17 +220,21 @@
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/css/ie.css" />
         <option value="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/app/views/website/home.blade.php" />
         <option value="$PROJECT_DIR$/app/controllers/GuestController.php" />
+        <option value="$PROJECT_DIR$/app/views/website/layout/master.blade.php" />
+        <option value="$PROJECT_DIR$/app/config/database.php" />
+        <option value="$PROJECT_DIR$/app/views/website/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/views/dashboard/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/RoomController.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="102" />
-    <option name="width" value="1218" />
-    <option name="height" value="666" />
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -218,20 +290,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hotel_management_system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hotel_management_system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -250,7 +308,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotel_management_system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,11 +419,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -290,10 +431,11 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="USER_CFG_CLASS" />
-      <option name="CONTEXT_PROVIDER" />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <list size="0" />
@@ -308,28 +450,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="102" width="1218" height="666" extended-state="0" />
+    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32222223" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31797582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1951006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1897436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1951006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3207856" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32142857" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19521317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1951006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -348,21 +510,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/dashboard/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.033771105" vertical-offset="108" max-vertical-offset="990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/guest/listAll.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="48" selection-start="1660" selection-end="1677" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="2196" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ReportController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="308" column="64" selection-start="14605" selection-end="14605" vertical-scroll-proportion="-2.8733945" vertical-offset="5868" max-vertical-offset="11808" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/website/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
@@ -398,11 +545,6 @@
         <state line="6" column="214" selection-start="359" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="216" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dashboard.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="76" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="468" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/guest/add.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="101" column="21" selection-start="4348" selection-end="4348" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2880" />
@@ -416,16 +558,6 @@
     <entry file="file://$PROJECT_DIR$/app/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="51" selection-start="1762" selection-end="1785" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1950" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/task/room.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="81" selection-start="2719" selection-end="2719" vertical-scroll-proportion="0.1796875" vertical-offset="718" max-vertical-offset="1230" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
@@ -456,11 +588,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/room/list.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="81" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1905" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/room/add.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1365" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/room/edit.blade.php">
@@ -498,24 +625,9 @@
         <state line="7" column="10" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="540" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="71" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-10.592592" vertical-offset="416" max-vertical-offset="936" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/website/task/tourism.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="2069" selection-end="2069" vertical-scroll-proportion="-4.3703704" vertical-offset="476" max-vertical-offset="1242" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/task/hotelGuide.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="3300" selection-end="3300" vertical-scroll-proportion="-8.666667" vertical-offset="864" max-vertical-offset="6966" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/task/lodge.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="50" selection-start="2557" selection-end="2557" vertical-scroll-proportion="-8.666667" vertical-offset="810" max-vertical-offset="1404" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/website/task/gallery.blade.php">
@@ -545,16 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/website/task/arusha.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="18" selection-start="2366" selection-end="2574" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/layout/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="34" selection-start="3604" selection-end="3604" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="3564">
-          <folding />
-        </state>
+        <state line="36" column="18" selection-start="2366" selection-end="2574" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="954" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/ie.css">
@@ -584,37 +687,123 @@
         <state line="6" column="90105" selection-start="90253" selection-end="90253" vertical-scroll-proportion="0.22881356" vertical-offset="0" max-vertical-offset="472" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/task/activities.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="0" selection-start="2960" selection-end="2960" vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="2124">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/website/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="125" selection-start="7000" selection-end="7000" vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="3330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/GuestController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="-6.5185184" vertical-offset="760" max-vertical-offset="2916">
+        <state line="52" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="2916">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Booking.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="315" selection-end="406" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="558">
+        <state line="19" column="5" selection-start="315" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Guest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="202" selection-end="295" vertical-scroll-proportion="0.55021834" vertical-offset="36" max-vertical-offset="594">
+        <state line="19" column="5" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/task/hotelGuide.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="50" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="5805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/task/lodge.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="50" selection-start="2557" selection-end="2557" vertical-scroll-proportion="0.0" vertical-offset="609" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="53" selection-start="1787" selection-end="1787" vertical-scroll-proportion="-0.0" vertical-offset="855" max-vertical-offset="1950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/task/activities.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="44" selection-start="3349" selection-end="3349" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/layout/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="47" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.0" vertical-offset="524" max-vertical-offset="3582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/task/room.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="9" selection-start="186" selection-end="3484" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="342">
+          <folding>
+            <element signature="tag#div#1" expanded="false" />
+            <element signature="tag#script#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/website/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="27" selection-start="5114" selection-end="5114" vertical-scroll-proportion="-11.777778" vertical-offset="1644" max-vertical-offset="2754">
+          <folding>
+            <element signature="tag#script#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="52" selection-start="250" selection-end="250" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/testmenu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="71" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-26.0" vertical-offset="0" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layout/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="46" selection-start="68" selection-end="68" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="1206">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="391" selection-end="391" vertical-scroll-proportion="-11.259259" vertical-offset="20" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/room/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="449" selection-end="449" vertical-scroll-proportion="0.9259259" vertical-offset="205" max-vertical-offset="1638">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/RoomController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="58" selection-start="2353" selection-end="2353" vertical-scroll-proportion="0.33333334" vertical-offset="933" max-vertical-offset="6678">
           <folding />
         </state>
       </provider>

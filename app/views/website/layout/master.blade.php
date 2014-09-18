@@ -33,6 +33,7 @@
     {{HTML::style("website/themes/assets/css/carousel.css")}}
 
     {{ HTML::script("website/js/jquery-1.9.1.js") }}
+    {{ HTML::script("website/js/carousel.js") }}
 </head>
 <!-- NAVBAR
 ================================================== -->
@@ -110,7 +111,7 @@
 
 
 <div class="container marketing">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel1" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <div class="carousel-inner">
             <div class="item active">
