@@ -34,7 +34,7 @@ class ReportController extends \BaseController {
                 $row = Room::all()->lists('name','id');
                 $tit = "";
                 foreach($row as $key => $value){
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $column[] = $que[0]->count();
                 }
                 $tit .= $que[1];
@@ -44,7 +44,7 @@ class ReportController extends \BaseController {
                 $row = Services::all()->lists('name','id');
                 $tit = "";
                 foreach($row as $key => $value){
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $column[] = $que[0]->count();
                 }
                 $tit .= $que[1];
@@ -86,7 +86,7 @@ class ReportController extends \BaseController {
                 $row = Room::all()->lists('name','id');
                 $tit = "";
                 foreach($row as $key => $value){
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -100,7 +100,7 @@ class ReportController extends \BaseController {
                 $row = Services::all()->lists('name','id');
                 $tit = "";
                 foreach($row as $key => $value){
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -178,7 +178,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?$que[0]->count().",":$que[0]->count();
                     $i++;
                 }
@@ -190,7 +190,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?$que[0]->count().",":$que[0]->count();
                     $i++;
                 }
@@ -236,7 +236,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -252,7 +252,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -352,7 +352,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?"['".$value."',".$que[0]->count()."],":"['".$value."',".$que[0]->count()."]";
                     $i++;
                 }
@@ -364,7 +364,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?"['".$value."',".$que[0]->count()."],":"['".$value."',".$que[0]->count()."]";
                     $i++;
                 }
@@ -411,7 +411,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -427,7 +427,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -529,7 +529,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?$que[0]->count().",":$que[0]->count();
                     $i++;
                 }
@@ -541,7 +541,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $column .= ($i < count($row1))?$que[0]->count().",":$que[0]->count();
                     $i++;
                 }
@@ -587,7 +587,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', RoomGuest::where('room_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -603,7 +603,7 @@ class ReportController extends \BaseController {
                 $tit = "";  $i = 1;
                 foreach($row1 as $key => $value){
                     $row .= ($i < count($row1))?"'".$value."',":"'".$value."'";
-                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')));
+                    $que = $this->processQuery(DB::table('guest')->whereIn('id', BookingServices::where('service_id',$key)->get()->lists('guest_id')+array('0')));
                     $cost = 0;
                     foreach($que[0]->lists('id') as $guest){
                         $cost += Guest::find($guest)->room->price;
@@ -680,7 +680,7 @@ class ReportController extends \BaseController {
     public function processRoom($query,$title=""){
         if(Input::get("rooms") != "all"){
            $title .= " At ". Room::find(Input::get("rooms"))->name. " Room ";
-           $query->whereIn('id', RoomGuest::where('room_id',Input::get("rooms"))->get()->lists('guest_id'));
+           $query->whereIn('id', RoomGuest::where('room_id',Input::get("rooms"))->get()->lists('guest_id')+array('0'));
         }
         return array($query,$title);
     }
@@ -705,7 +705,7 @@ class ReportController extends \BaseController {
 
         if(Input::get("services") != "all"){
             $title .= " Using ". Services::find(Input::get("services"))->name ." Service ";
-            $query->whereIn('id', BookingServices::where('service_id',Input::get("services"))->get()->lists('guest_id'));
+            $query->whereIn('id', BookingServices::where('service_id',Input::get("services"))->get()->lists('guest_id')+array('0'));
         }
         return array($query,$title);
     }
