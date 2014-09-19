@@ -19,9 +19,10 @@
                     <div class="col-lg-4">
                         <img style="height: 240px;width: 370px" class="img-thumbnail img-rounded img-responsive" src="{{asset("uploads/rooms/{$room->image}")}}" alt="Generic placeholder image">
                         <h4 class="lead">{{ $room->name }}</h4>
-                        <tr> <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category:&nbsp;&nbsp;</td><td class="lead">{{ $room->category }}&nbsp;Size</td><br>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bed Type:&nbsp;&nbsp;</td> <td class="lead">{{ $room->bed_type }}</td><br>
-                            <td>Room Price:&nbsp;&nbsp;</td> <td class="lead">{{ $room->price }}</td><br></tr><br>
+                        <tr> <td>Category:&nbsp;&nbsp;</td><td class="lead">{{ $room->category }}&nbsp;Size</td><br>
+                            <td>Bed Type:&nbsp;&nbsp;</td> <td class="lead">{{ $room->bed_type }}</td><br>
+                            <td>Room Price:&nbsp;&nbsp;</td> <td class="lead">{{ $room->price }}USD</td><br></tr>
+                        <td>Description:&nbsp;&nbsp;</td> <td class="lead">{{ $room->descr }}</td><br></tr><br>
                         <p><a class="btn btn-default book" id='{{ $room->id }}' href="#" role="button" >Book Room  &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
             @if($i == 3 && $j<$no)

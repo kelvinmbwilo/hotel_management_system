@@ -17,7 +17,7 @@
 
         </div>
         <div class="col-xs-6">
-            {{ $grooms->price }}Tsh<br>
+            {{ $grooms->price }}USD<br>
             {{ $grooms->bed_size }}<br>
 <!--            <span class="text-warning">{{ $grooms->status }}</span> </strong>-->
         </div>
@@ -110,7 +110,7 @@
 
                     $( "#from" ).datepicker( "option", "maxDate", selectedDate );
                     $(".error").fadeIn().html("<i class='fa fa-spin fa-spinner '></i><span>Checking Availability please wait...</span>");
-                    $.post("room/<?php echo $grooms->id ?>/check",{from:$( "#from").val(),to:$( "#to").val()},function(data){
+                    $.post("<?php echo url("room/{$grooms->id}/check") ?>",{from:$( "#from").val(),to:$( "#to").val()},function(data){
 
                         if(data == "not"){
                             $("#guestinfo").hide("slow");
