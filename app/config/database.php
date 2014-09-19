@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'hotel_management_system',
 			'username'  => 'root',
-			'password'  => 'softmed',
+			'password'  => 'kevdom',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
